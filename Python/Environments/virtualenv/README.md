@@ -1,4 +1,4 @@
-Esta nota está basada en el video de la siguiente [Liga](https://youtu.be/N5vscPTWKOk)
+Esta nota está basada en el video de la siguiente [Liga](https://youtu.be/N5vscPTWKOk). Revisar también esta [Liga](https://github.com/pyenv/pyenv-virtualenv)
 
 ## Instalación
 Dentro de python, escribir la siguiente línea:
