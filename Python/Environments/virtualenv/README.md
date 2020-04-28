@@ -42,7 +42,9 @@ pip list
 ## Exportar los paquetes a un Requirements.txt
 ```python
 pip freeze --local > requirements.txt  
-#la bandera --local sirve para que se introduzcan solamente los paquetes en el ambiente virtual, si quiero incluir todos los paquetes en el python global, uso --global
+#la bandera --local sirve para que se introduzcan solamente los paquetes 
+#en el ambiente virtual, si quiero incluir todos los paquetes en el python 
+#global, uso --global
 ```
 
 ## Entrar al requirements.txt
