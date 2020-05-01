@@ -3,7 +3,7 @@ pandas:
 [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)
 [Leer despues](https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/)
 [regex with pandas](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
-
+[documentacion oficial](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
 dado que se fue la luz, pondré los archivos de otros temas en este lugar:
 * Jupyter notebook:
