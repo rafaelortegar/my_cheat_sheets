@@ -4,3 +4,7 @@ $ source activate env_name
 $ jupyter notebook
 
 [revisar](https://stackoverflow.com/questions/37085665/in-which-conda-environment-is-jupyter-executing)
+
+[instalar jupyterlab](https://www.ceos3c.com/open-source/install-jupyterlab-on-ubuntu-18-04/)
+[otros installs](https://medium.com/hi-optimus/how-to-install-jupyterlab-0-33-8-on-ubuntu-18-04-lts-afd18b676ca5)
+[upgrading jupyterlab](https://hackersandslackers.com/upgrading-to-jupyter-lab-on-ubuntu/)
