@@ -105,12 +105,12 @@ Para verificar que todo está funcionando correctamente:
 sudo nano /var/www/html/info.php #por cuestiones de permisos, tuvimos que usar sudo
 ```
 escribimos lo siguiente:
----
-**NOTE**
 
+```php
 <?php
 phpinfo();
 ?>
-
----
+```
+guardamos el archivo y en nuestro explorador entramos a la ruta :
+http://localhost/info.php
 
