@@ -79,3 +79,22 @@ después, para iniciar y parar el SQL server:
 $  sudo service mysql stop
 $  sudo service mysql start
 ```
+
+## Instalación de PHP
+Primero, agregamos el repositorio `ondrej/php`, que contiene las versiones actualizadas de PHP y hacemos un update.
+```bash
+$ sudo add-apt-repository ppa:ondrej/php
+$ sudo apt-get update
+```
+Después, instalamos PHP con el siguiente comando:
+```bash
+$ sudo apt-get install -y php<version> #por ejemplo: sudo apt-get install -y php7.2
+```
+
+Para revisar la instalación, podemos revisar la versión:
+```bash
+$ php -v
+```
+
+
+
