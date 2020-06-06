@@ -127,7 +127,7 @@ $  service apache2 restart
 ```bash
 $  sudo apt-get install phpmyadmin
 ```
-nos aparecerán las siguientes preguntas:
+nos aparecerán las siguientes preguntas:   
 pregunta 1:
 ![pregunta1](../../docs/images/pregunta_de_configuracion_php.png)
 responder:**apache2**
