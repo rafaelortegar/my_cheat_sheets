@@ -95,6 +95,22 @@ Para revisar la instalación, podemos revisar la versión:
 ```bash
 $ php -v
 ```
+ya que tenemos todo instalado correctamente, reiniciamos el servidor de apache:
+```bash
+$  service apache2 restart
+```
+## Verificando instalación
+Para verificar que todo está funcionando correctamente:
+```bash
+sudo nano /var/www/html/info.php #por cuestiones de permisos, tuvimos que usar sudo
+```
+escribimos lo siguiente:
+---
+**NOTE**
 
+<?php
+phpinfo();
+?>
 
+---
 
