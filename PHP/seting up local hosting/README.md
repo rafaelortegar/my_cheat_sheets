@@ -135,3 +135,5 @@ responder:**apache2**
 pregunta 2:
 ![pregunta2](../../docs/images/pregunta_de_configuracion_php1.png)
 responder: **No**
+
+ahora podremos acceder a la interfaz de phpMyAdmin con la siguiente dirección en el explorador:  http://192.168.0.100/phpmyadmin/
