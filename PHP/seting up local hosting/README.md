@@ -129,9 +129,9 @@ $  sudo apt-get install phpmyadmin
 ```
 nos aparecerán las siguientes preguntas:
 pregunta 1:
-[pregunta1](../../docs/imagenes/pregunta_de_configuracion_php.png)
+![pregunta1](../../docs/imagenes/pregunta_de_configuracion_php.png)
 responder:**apache2**
 
 pregunta 2:
-[pregunta2](../../docs/imagenes/pregunta_de_configuracion_php1.png)
+![pregunta2](../../docs/imagenes/pregunta_de_configuracion_php1.png)
 responder: **No**
