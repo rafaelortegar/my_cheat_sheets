@@ -5,7 +5,7 @@ La siguiente nota está basada en [esta](http://www.linuxandubuntu.com/home/how-
 Para este propósito utilizaremos:
 * [Apache](https://github.com/rafaelortegar/my_cheat_sheets/blob/master/PHP/seting%20up%20local%20hosting/README.md#instalaci%C3%B3n-de-apache)
 * [MySQL](https://github.com/rafaelortegar/my_cheat_sheets/blob/master/PHP/seting%20up%20local%20hosting/README.md#instalaci%C3%B3n-de-mysql)
-* PHP
+* [PHP](https://github.com/rafaelortegar/my_cheat_sheets/blob/master/PHP/seting%20up%20local%20hosting/README.md#instalaci%C3%B3n-de-php)
 * HTML se usa para programar la interfaz con el usuario, pero el código de HTML se pondrá en su [carpeta correspondiente](https://github.com/rafaelortegar/my_cheat_sheets/tree/master/HTML).
 
 ## Instalación de Apache:
