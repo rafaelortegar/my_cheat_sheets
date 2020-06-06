@@ -1,4 +1,4 @@
-La siguiente nota está basada en [esta](http://www.linuxandubuntu.com/home/how-to-setup-a-web-server-and-host-website-on-your-own-linux-computer) liga
+La siguiente nota está basada en [esta](http://www.linuxandubuntu.com/home/how-to-setup-a-web-server-and-host-website-on-your-own-linux-computer) liga, asi como estas: [liga 1](https://www.howtoforge.com/ubuntu-lamp-server-with-apache2-php5-mysql-on-14.04-lts), [liga 2](https://vitux.com/how-to-install-php5-and-php7-on-ubuntu-18-04-lts/). 
 
 # Creando un servidor local para poder usar un `localhost`al momento de diseñar/programar una página web:
 
