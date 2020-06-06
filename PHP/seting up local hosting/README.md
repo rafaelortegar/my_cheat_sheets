@@ -117,3 +117,14 @@ phpinfo();
 guardamos el archivo y en nuestro explorador entramos a la ruta :
 http://localhost/info.php
 
+## Instalando el soporte de MySQL para PHP
+```bash
+$  sudo apt-cache search php5
+$  service apache2 restart
+```
+
+## PHPMyAdmin
+```bash
+$  sudo apt-get install phpmyadmin
+```
+nos aparecerán las siguientes preguntas:
