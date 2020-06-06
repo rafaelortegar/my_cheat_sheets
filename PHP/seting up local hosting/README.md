@@ -38,5 +38,44 @@ mysql> SELECT User, Host, plugin FROM mysql.user;
 | mysql.sys        | mysql_native_password |
 | debian-sys-maint | mysql_native_password |
 +------------------+-----------------------+
+
+mysql> USE mysql;
+mysql> CREATE USER 'TU_USUARIO_DE_SISTEMA'@'localhost' IDENTIFIED BY '';
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'TU_USUARIO_DE_SISTEMA'@'localhost';
+mysql> UPDATE user SET plugin='auth_socket' WHERE User='TU_USUARIO_DE_SISTEMA';
+mysql> FLUSH PRIVILEGES;
+mysql> exit;
+```
+o bien, en algunos sistemas (e.g., Debian stretch), el plugin 'auth_socket' es llamado 'unix_socket', entonces, el comando de SQL debería ser:
+
+```SQL
+$ sudo mysql -u TU_USUARIO_DE_SISTEMA 
+
+mysql> USE mysql;
+mysql> CREATE USER 'TU_USUARIO_DE_SISTEMA'@'localhost' IDENTIFIED BY 'TU_CONTRASEÑA DE USUARIO'; # Si no quieres asignar una contraseña, dejarlo como ''
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'TU_USUARIO_DE_SISTEMA'@'localhost';
+mysql> UPDATE user SET plugin='unix_socket' WHERE User='TU_USUARIO_DE_SISTEMA';
+mysql> FLUSH PRIVILEGES;
+mysql> exit;
+
+$ service mysql restart
 ```
 
+Para acceder a la base de datos:
+
+```SQL
+mysql -u TU_USUARIO_DE_SISTEMA -p
+```
+con la nueva versión de MySQL, el comando es el siguiente:
+
+```bash
+$  sudo mysql -u root -p
+``
+```SQL
+ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'TU_CONTRASEÑA DE USUARIO';
+```
+después, para iniciar y parar el SQL server:
+```bash
+$  sudo service mysql stop
+$  sudo service mysql start
+```
