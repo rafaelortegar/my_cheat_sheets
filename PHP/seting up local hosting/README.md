@@ -8,7 +8,7 @@ Para este propósito utilizaremos:
 * [PHP](https://github.com/rafaelortegar/my_cheat_sheets/blob/master/PHP/seting%20up%20local%20hosting/README.md#instalaci%C3%B3n-de-php)
 * HTML se usa para programar la interfaz con el usuario, pero el código de HTML se pondrá en su [carpeta correspondiente](https://github.com/rafaelortegar/my_cheat_sheets/tree/master/HTML).
 
-* Verificamos la instalación y correcto funcionamiento
+* [Verificamos la instalación y correcto funcionamiento](https://github.com/rafaelortegar/my_cheat_sheets/blob/master/PHP/seting%20up%20local%20hosting/README.md#verificando-instalaci%C3%B3n)
 * Instalamos el soporte de MySQL para PHP
 
 ## Instalación de Apache:
