@@ -61,7 +61,13 @@ sudo usermod -aG docker $USER
 ```bash
 newgrp docker
 ```
-8. Verificar que puedes correr comandos de docker sin utilizar sudo
+8. Reiniciar el daemon de docker
+
+```bash
+sudo service docker restart
+```
+
+9. Verificar que puedes correr comandos de docker sin utilizar sudo
 
 ```bash
 docker run hello-world
