@@ -4,7 +4,7 @@ La guía oficial de docker para la instalación se encuentra en la siguiente [li
 **Desinstalar versiones anteriores**
 
 ```bash
-sudo apt-get remove docker docker-engine docker.io containerd runc
+$ sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 
 **Instalación**
