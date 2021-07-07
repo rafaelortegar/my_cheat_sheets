@@ -44,6 +44,16 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
+O en una versión específica:
+
+se revisan las versiones disponibles:
+```bash
+apt-cache madison docker-ce
+```
+Se instala la versión deseada  
+```bash
+sudo apt-get install docker-ce=<VERSION_STRING> docker-ce-cli=<VERSION_STRING> containerd.io
+```
 
 5. Crear el grupo `docker`
 
