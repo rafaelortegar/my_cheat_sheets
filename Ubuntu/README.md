@@ -10,3 +10,9 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 1. Instalar el programa [Rufus](https://rufus.ie/en_US/)
 2. Descargar la [Imagen de Ubuntu](https://ubuntu.com/download/desktop). Para esta parte, recomiendo bajar la versión que dice LTS (Long Term Support).
 
+## Preparación del USB para la instalación
+1. Ejecutar la aplicación Rufus, la cual te solicitará acceso como administrador. Permitir cambios.
+file:///home/rafaelortegaopi/Pictures/Screenshot%20from%202021-07-08%2012-17-56.png![image](https://user-images.githubusercontent.com/51694410/124964377-9201dd80-dfe6-11eb-939c-fd4f0ba990fc.png)
+
+
+3. 
