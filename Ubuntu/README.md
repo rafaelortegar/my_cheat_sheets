@@ -6,7 +6,7 @@ Para la instalación de Ubuntu, me guié de los siguientes dos videos:
 
 Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir screenshots de los videos.
 
-==En Windows==
+## En Windows:
 1. Instalar el programa [Rufus](https://rufus.ie/en_US/)
 2. Descargar la [Imagen de Ubuntu](https://ubuntu.com/download/desktop). Para esta parte, recomiendo bajar la versión que dice LTS (Long Term Support).
 
