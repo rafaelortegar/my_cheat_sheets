@@ -17,8 +17,15 @@ chsh -s $(which zsh)
 echo $SHELL
 ```
 
+Para aplicar los cambios, solo sería necesario cerrar la terminal y abrir una nueva.
+
 ## Si lo necesitas, puedes volver a hacer bash como default Shell
 ```bash
 chsh -s $(which bash)
 ```
 
+## Instalación de oh-my-zsh
+Por lo general, se puede requerir instalar [oh-my-zsh](https://ohmyz.sh/), lo cual se puede realizar con el siguiente comando:
+```bash
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
