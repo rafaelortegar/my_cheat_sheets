@@ -60,17 +60,21 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 ![image](https://user-images.githubusercontent.com/51694410/125024919-4f242200-e047-11eb-8087-3e959ed5b684.png)
 
 
-23. Abrirá una ventana, en la opción de "Tamaño del espacio que desea reducir, en MB deberás ingresar la cantidad a reducir. En la imagen siguiente se redujeron 61,440 MB
+23. Abrirá una ventana, en la opción de "Tamaño del espacio que desea reducir, en MB deberás ingresar la cantidad a reducir y dar click en reducir. En la imagen siguiente se redujeron 61,440 MB. Este es el espacio que deseas que tenga UBUNTU en tu computadora. En mi caso, para una computadora de 500 GB de disco duro, yo reduje 300000 MB.
 
 
 ![image](https://user-images.githubusercontent.com/51694410/125025180-d2457800-e047-11eb-83e0-65bb183f19a9.png)
 
 
 
-25. a
-26. a
-27. a
-28. a
+25. Una vez creada la partición, deberá verse de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/51694410/125025352-23ee0280-e048-11eb-9341-c2cefd8f9fec.png)
+
+27. Reiniciar el equipo
+
+![image](https://user-images.githubusercontent.com/51694410/125025408-3e27e080-e048-11eb-82a3-c84e12a8e38d.png)
+
 29. a
 30. a
 31. a
@@ -78,6 +82,8 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 33. a
 34. a
 35. a
-36. 
+36. a
+37. a
+38. 
 
 
