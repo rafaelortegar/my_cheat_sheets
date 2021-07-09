@@ -61,7 +61,10 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 
 
 23. Abrirá una ventana, en la opción de "Tamaño del espacio que desea reducir, en MB deberás ingresar la cantidad a reducir. En la imagen siguiente se redujeron 61,440 MB
-![image](https://user-images.githubusercontent.com/51694410/125025038-8db9dc80-e047-11eb-8e4a-49a273ac14d1.png)
+
+
+![image](https://user-images.githubusercontent.com/51694410/125025180-d2457800-e047-11eb-83e0-65bb183f19a9.png)
+
 
 
 25. a
