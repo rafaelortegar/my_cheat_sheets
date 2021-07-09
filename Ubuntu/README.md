@@ -38,12 +38,16 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 ![image](https://user-images.githubusercontent.com/51694410/125024407-5696fb80-e046-11eb-9114-fa408760acad.png)
 
 15. Saldrá una advertencia de que la USB será formateada, click en "Aceptar"
+
+
 ![image](https://user-images.githubusercontent.com/51694410/125024516-8a722100-e046-11eb-8f26-f8a243583085.png)
 
 ## Partición del disco duro (o disco de estado sólido)
 
 **En windows**
 17. Click derecho en botón de inicio y seleccionar la opción de "Administración de discos"
+
+
 ![image](https://user-images.githubusercontent.com/51694410/125024712-f2286c00-e046-11eb-899b-0d9cc17eb313.png)
 
 19. Click derecho en el disco local "C:"
