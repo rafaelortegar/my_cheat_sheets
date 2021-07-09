@@ -71,19 +71,29 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 
 ![image](https://user-images.githubusercontent.com/51694410/125025352-23ee0280-e048-11eb-9341-c2cefd8f9fec.png)
 
-27. Reiniciar el equipo
+27. Reiniciar el equipo para iniciar desde la USB. **IMPORTANTE:** Antes de reiniciar, es importante saber cómo acceder al menú de arranque de tu computadora, pues en cada equipo, modelo y marca suele ser diferente y es importante hacerlo bien en la primera vez.
 
-![image](https://user-images.githubusercontent.com/51694410/125025408-3e27e080-e048-11eb-82a3-c84e12a8e38d.png)
+![image](https://user-images.githubusercontent.com/51694410/125025484-5bf54580-e048-11eb-92f6-ad385e6b366d.png)
 
-29. a
-30. a
-31. a
-32. a
-33. a
-34. a
+29. En el caso de la computadora del video, justo antes de reiniciar se usa la tecla "Esc" para entrar al menú de arranque. Te debe aparecer el siguiente menú, donde se selecciona "F9: Opciones de dispositivos de arranque"
+
+![image](https://user-images.githubusercontent.com/51694410/125025716-c9a17180-e048-11eb-8d0e-b21fd70d4dce.png)
+
+31. Se abrirá el menú de opciones del "Administrador de arranque", donde deberás seleccionar la USB (en el caso del video es una USB SanDisk), y presionar "ENTER".
+
+![image](https://user-images.githubusercontent.com/51694410/125026051-72e86780-e049-11eb-8e15-538458878dd1.png)
+
+
+33. Escoger la opción "Install Ubuntu"
+
+![image](https://user-images.githubusercontent.com/51694410/125026074-7aa80c00-e049-11eb-82f7-84df23f5da16.png)
+
 35. a
 36. a
 37. a
-38. 
+38. a
+39. a
+40. a
+41. 
 
 
