@@ -1,3 +1,6 @@
+Requerimientos:
+* USB de 4 GB
+
 # Instalación de Ubuntu en Dual Boot con Windows 10
 
 Para la instalación de Ubuntu, me guié de los siguientes dos videos:
