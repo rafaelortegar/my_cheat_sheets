@@ -84,7 +84,7 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 ![image](https://user-images.githubusercontent.com/51694410/125026051-72e86780-e049-11eb-8e15-538458878dd1.png)
 
 
-33. Escoger la opción "Install Ubuntu"
+33. Escoger la opción "Install Ubuntu" y presionar "Enter"
 
 ![image](https://user-images.githubusercontent.com/51694410/125026074-7aa80c00-e049-11eb-82f7-84df23f5da16.png)
 
