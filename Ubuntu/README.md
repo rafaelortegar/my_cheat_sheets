@@ -20,6 +20,7 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 
 
 4. En "Elección de arranque", seleccionar la opción de "Disco o imagen ISO, presionar en el botón de seleccionar y seleccionar la ISO de Ubuntu descargada en el paso 2.
+
 ![image](https://user-images.githubusercontent.com/51694410/125024027-9f01e980-e045-11eb-90c4-10f5487983f1.png)
 
 5. En "Esquema de partición" se selecciona:
@@ -46,6 +47,8 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 ![image](https://user-images.githubusercontent.com/51694410/125024712-f2286c00-e046-11eb-899b-0d9cc17eb313.png)
 
 19. Click derecho en el disco local "C:"
+
+
 ![image](https://user-images.githubusercontent.com/51694410/125024780-0ec4a400-e047-11eb-9651-6e7b3c177f70.png)
 
 
