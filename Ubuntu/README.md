@@ -75,6 +75,7 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 
 ![image](https://user-images.githubusercontent.com/51694410/125025484-5bf54580-e048-11eb-92f6-ad385e6b366d.png)
 
+## Arranque para la instalación desde la USB
 29. En el caso de la computadora del video, justo antes de reiniciar se usa la tecla "Esc" para entrar al menú de arranque. Te debe aparecer el siguiente menú, donde se selecciona "F9: Opciones de dispositivos de arranque"
 
 ![image](https://user-images.githubusercontent.com/51694410/125025716-c9a17180-e048-11eb-8d0e-b21fd70d4dce.png)
@@ -88,6 +89,7 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 
 ![image](https://user-images.githubusercontent.com/51694410/125026074-7aa80c00-e049-11eb-82f7-84df23f5da16.png)
 
+## Instalación y Configuración de Ubuntu.
 35. a
 36. a
 37. a
