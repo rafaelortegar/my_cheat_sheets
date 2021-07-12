@@ -113,21 +113,65 @@ Seleccionar la tercer opción: "Más opciones"
 ![image](https://user-images.githubusercontent.com/51694410/125316756-0944b380-e2fe-11eb-9d5d-f645a97bddf1.png)
 
 ## Importante: Partición para Root, Swap y Home
-45. a
-46. a
-47. a
-48. a
-49. a
-50. a
-51. a
-52. a
-53. a
-54. a
-55. a
-56. a
-57. a
-58. a
-59. 
-60. 
+Aparecerá una lista con las particiones que se tienen en la computadora:
+
+![image](https://user-images.githubusercontent.com/51694410/125320231-1f07a800-e301-11eb-911c-4894ec6b852e.png)
+
+Habrá una opción de "espacio libre".
+
+45. Partición Root (/)
+Click derecho en el espacio libre. Abrirá la siguiente ventana:
+
+![image](https://user-images.githubusercontent.com/51694410/125320516-68f08e00-e301-11eb-971e-dd09a31c5328.png)
+
+Se deberá llenar de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/51694410/125320975-dac8d780-e301-11eb-9545-9f6d1bf0a4ee.png)
+
+Como nota: dado que en esta sección se instalarán los programas y las paqueterías de python, yo asigné 100 GB, debido a que en alguna ocasión se llenó esta parte de la memoria.
+
+47. Partición SWAP
+Dar click derecho al espacio libre y configurar de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/51694410/125321474-56c31f80-e302-11eb-8ae2-9badc8f686d0.png)
+
+Nota: Por lo general, el espacio asignado para esta área es de la mitad de tu memoria RAM.
+
+49. HOME
+El resto del espacio será asignado a "HOME", que es donde se almacenarán los archivos, documentos, fotos, etc. dar click y configurar de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/51694410/125321732-9db11500-e302-11eb-88c9-9bd2cdeda945.png)
+
+
+51. "Instalar ahora"
+Dar click en instalar ahora. Asegurate de que tienes seleccionadas las siguientes partes:
+
+![image](https://user-images.githubusercontent.com/51694410/125321971-d9e47580-e302-11eb-86ec-ab5694507719.png)
+
+
+53. Mostrará lo que se va a instalar, dar click en continuar.
+
+![image](https://user-images.githubusercontent.com/51694410/125322069-f84a7100-e302-11eb-97f9-7308bb4cfe5d.png)
+
+55. Seleccionar zona horaria
+
+![image](https://user-images.githubusercontent.com/51694410/125322205-1f08a780-e303-11eb-8f38-4a25ff9fc344.png)
+
+57. Completar formulario
+
+![image](https://user-images.githubusercontent.com/51694410/125322683-a7874800-e303-11eb-9670-2f46f8985cdf.png)
+
+59. Al finalizar, se deberá desconectar el USB y reiniciar el equipo 
+
+![image](https://user-images.githubusercontent.com/51694410/125322993-f2a15b00-e303-11eb-8453-297e60a2e9af.png)
+
+61. a
+62. a
+63. a
+64. a
+65. a
+66. a
+67. 
+68. 
 
 
