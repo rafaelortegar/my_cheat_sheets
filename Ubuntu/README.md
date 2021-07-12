@@ -90,12 +90,44 @@ Para no hacer de nuevo la instalación de ubuntu, el tutorial va a incluir scree
 ![image](https://user-images.githubusercontent.com/51694410/125026074-7aa80c00-e049-11eb-82f7-84df23f5da16.png)
 
 ## Instalación y Configuración de Ubuntu.
-35. a
-36. a
-37. a
-38. a
-39. a
-40. a
-41. 
+35. Elegit Idioma
+
+![image](https://user-images.githubusercontent.com/51694410/125315800-17460480-e2fd-11eb-9ed3-bb9e7ddc9dab.png)
+
+37. Elegir la distribución del teclado
+
+![image](https://user-images.githubusercontent.com/51694410/125315895-304eb580-e2fd-11eb-8060-01ba1a73633e.png)
+
+39. Conectar la red WIFI
+
+![image](https://user-images.githubusercontent.com/51694410/125316156-76a41480-e2fd-11eb-8819-975c848ba231.png)
+
+41. Instalación normal
+* Seleccionar la opción de Descargar actualizaciones al instalar ubuntu
+* Seleccionar la opción de Instalar programas de terceros para hardware de gráficos y de wifi y formatos multimedia adicionales.
+![image](https://user-images.githubusercontent.com/51694410/125316177-7d328c00-e2fd-11eb-8b59-201fd7dd1133.png)
+
+43. En tipo de instalación:
+Seleccionar la tercer opción: "Más opciones"
+
+![image](https://user-images.githubusercontent.com/51694410/125316756-0944b380-e2fe-11eb-9d5d-f645a97bddf1.png)
+
+## Importante: Partición para Root, Swap y Home
+45. a
+46. a
+47. a
+48. a
+49. a
+50. a
+51. a
+52. a
+53. a
+54. a
+55. a
+56. a
+57. a
+58. a
+59. 
+60. 
 
 
