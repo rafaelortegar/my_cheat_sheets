@@ -5,3 +5,4 @@
 [more on environments](https://towardsdatascience.com/power-up-your-python-projects-with-visual-studio-code-401f78dd97eb)
 [venv](https://medium.com/swlh/a-guide-to-python-virtual-environments-8af34aa106ac)
 [setup for vscode](https://github.com/lorarjohns/awesomeVenvs/blob/master/pyenv_cheat_sheet.md)
+[tips & Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#vscode)
