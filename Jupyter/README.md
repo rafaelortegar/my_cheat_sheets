@@ -8,3 +8,5 @@ $ jupyter notebook
 [instalar jupyterlab](https://www.ceos3c.com/open-source/install-jupyterlab-on-ubuntu-18-04/)
 [otros installs](https://medium.com/hi-optimus/how-to-install-jupyterlab-0-33-8-on-ubuntu-18-04-lts-afd18b676ca5)
 [upgrading jupyterlab](https://hackersandslackers.com/upgrading-to-jupyter-lab-on-ubuntu/)
+
+[Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
