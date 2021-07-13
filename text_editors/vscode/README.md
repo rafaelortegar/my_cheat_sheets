@@ -2,3 +2,6 @@
 [working with remote containers](https://code.visualstudio.com/docs/remote/containers)  
 [managing packages with requirements.txt](https://docs.microsoft.com/en-us/visualstudio/python/managing-required-packages-with-requirements-txt?view=vs-2019)  
 [environments](https://code.visualstudio.com/docs/python/environments)
+[more on environments](https://towardsdatascience.com/power-up-your-python-projects-with-visual-studio-code-401f78dd97eb)
+[venv](https://medium.com/swlh/a-guide-to-python-virtual-environments-8af34aa106ac)
+[setup for vscode](https://github.com/lorarjohns/awesomeVenvs/blob/master/pyenv_cheat_sheet.md)
