@@ -8,3 +8,7 @@ Aqui están los plugins y sus settings para los que vienen [incluidos con ohmyzs
 * [otro](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
 * [uno más](https://geekytheory.com/como-instalar-oh-my-zsh-en-ubuntu)
 * [tips & Tricks](https://www.sitepoint.com/zsh-tips-tricks/)
+* [otro tutorial](https://medium.com/tech-notes-and-geek-stuff/install-zsh-on-arch-linux-manjaro-and-make-it-your-default-shell-b0098b756a7a)
+* [mas](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
+
+[zsh en gh](https://github.com/ohmyzsh/ohmyzsh)
