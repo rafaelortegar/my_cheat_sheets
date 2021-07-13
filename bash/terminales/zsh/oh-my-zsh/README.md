@@ -7,3 +7,4 @@ Aqui están los plugins y sus settings para los que vienen [incluidos con ohmyzs
 * [Tutorial completo](https://qirolab.com/posts/install-and-setup-oh-my-zsh-on-ubuntu-system)
 * [otro](https://www.howtoforge.com/tutorial/how-to-setup-zsh-and-oh-my-zsh-on-linux/)
 * [uno más](https://geekytheory.com/como-instalar-oh-my-zsh-en-ubuntu)
+* [tips & Tricks](https://www.sitepoint.com/zsh-tips-tricks/)
