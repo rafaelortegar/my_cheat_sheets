@@ -92,6 +92,8 @@ sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
 sudo chmod g+rwx "$HOME/.docker" -R
 ```
 
+## [Dockerfiles de imagenes propias](https://github.com/rafaelortegar/my_Dockerfiles):
+
 
 ## Ligas a revisar
 * [liga](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook)
