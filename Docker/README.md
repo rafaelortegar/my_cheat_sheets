@@ -92,6 +92,11 @@ sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
 sudo chmod g+rwx "$HOME/.docker" -R
 ```
 
+## Remover imagenes de docker
+con esta [liga](https://www.freecodecamp.org/news/how-to-remove-images-in-docker/)
+
+
+
 ## [Dockerfiles de imagenes propias](https://github.com/rafaelortegar/my_Dockerfiles):
 
 
