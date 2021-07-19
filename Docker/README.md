@@ -95,7 +95,8 @@ sudo chmod g+rwx "$HOME/.docker" -R
 ## Remover imagenes de docker
 con esta [liga](https://www.freecodecamp.org/news/how-to-remove-images-in-docker/)
 
-
+## Taggeo automático de imágenes de docker
+Con esta [liga](https://blog.container-solutions.com/tagging-docker-images-the-right-way)
 
 ## [Dockerfiles de imagenes propias](https://github.com/rafaelortegar/my_Dockerfiles):
 
