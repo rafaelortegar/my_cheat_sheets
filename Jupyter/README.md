@@ -12,3 +12,5 @@ $ jupyter notebook
 [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
 
 [Kubeflow & Kale](https://github.com/kubeflow-kale/kale)
+
+[Kubeflow pipelines](https://github.com/kubeflow/pipelines)
