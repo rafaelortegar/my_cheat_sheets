@@ -10,3 +10,5 @@ $ jupyter notebook
 [upgrading jupyterlab](https://hackersandslackers.com/upgrading-to-jupyter-lab-on-ubuntu/)
 
 [Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
+
+[Kubeflow & Kale](https://github.com/kubeflow-kale/kale)
