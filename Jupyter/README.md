@@ -14,3 +14,5 @@ $ jupyter notebook
 [Kubeflow & Kale](https://github.com/kubeflow-kale/kale)
 
 [Kubeflow pipelines](https://github.com/kubeflow/pipelines)
+
+[jupyter notebooks on ec2 instance](https://medium.com/finbox/connecting-jupyter-notebook-to-aws-ec2-instance-bba0af52a6b8)
