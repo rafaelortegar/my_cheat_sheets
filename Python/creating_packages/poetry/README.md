@@ -1,1 +1,1 @@
-pagina oficial de poetry: [https://python-poetry.org/docs/](poetry)
+pagina oficial de poetry: [poetry](https://python-poetry.org/docs/)
