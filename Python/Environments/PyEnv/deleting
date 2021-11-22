@@ -1,0 +1,3 @@
+In order to delete an environment, run the following command:
+
+pyenv uninstall
