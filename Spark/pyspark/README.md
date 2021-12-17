@@ -65,3 +65,8 @@ convert pyspark DF to Pandas DF:
 ```python
 pandas_df = pyspark_df.toPandas()
 ```
+
+convert Pandas DF to Pyspark DF:
+```python
+sparkDF=spark.createDataFrame(pandasDF) 
+```
