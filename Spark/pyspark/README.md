@@ -13,6 +13,10 @@ filter df with elements of dict:
 filtered_df = df.filter(F.col('col_name').isin(dict_name['dict_element_name']))
 ```
 
+filter df with elements of list:
+```python
+filtered_df = df.filter(F.col('col_name').isin(list_name))
+```
 
 Join 2 df's:
 ```python
