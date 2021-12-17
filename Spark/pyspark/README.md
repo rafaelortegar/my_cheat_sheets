@@ -10,7 +10,7 @@ unique_list = [i.variable for i in df.select('variable').distinct().collect()]
 
 filter df with elements of dict:
 ```python
-filtered_df = df.filter(sf.col('col_name').isin(dict_name['dict_element_name']))
+filtered_df = df.filter(F.col('col_name').isin(dict_name['dict_element_name']))
 ```
 
 
@@ -23,4 +23,41 @@ df_joined = df_orig.join(df_to_join, on=join_cols, how='left')
 renaming a column:
 ```python
 df = df.withColumnRenamed(column_name, new_column_name)
+```
+
+copy a column:
+```python
+df = df.withColumn("new_column_name", df["column_name"])
+```
+
+change columns data type:
+```python
+df = df.withColumn("column_name", df["column_name"].cast(IntegerType()))
+```
+
+select columns:
+```python
+df_selected_cols = df_original.select('cols_to_select')
+```
+
+get columns data types:
+```python
+df.dtypes
+```
+
+get elements type on list:
+```python
+from collections import Counter
+
+Counter([type(value) for value in lista])
+```
+
+delete NoneType element from list:
+```python
+res = list(filter(None, lista))
+```
+
+convert pyspark DF to Pandas DF:
+```python
+pandas_df = pyspark_df.toPandas()
 ```
