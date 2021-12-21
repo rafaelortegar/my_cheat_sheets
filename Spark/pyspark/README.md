@@ -93,3 +93,8 @@ prueba = (
     .withColumn("new_col_name",sf.when(sf.col(col_name).isin(list_name),"value to assign").otherwise(sf.col(col_name) )
 ) 
 ```
+
+Filter by column value
+```python
+df.filter(sf.col('column_name')==value_looking_for)
+```
