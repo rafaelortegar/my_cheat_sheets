@@ -75,3 +75,21 @@ convert Pandas DF to Pyspark DF:
 ```python
 sparkDF=spark.createDataFrame(pandasDF) 
 ```
+
+add a column with value depending of whether the value is in list or not
+
+```python
+prueba = (
+    df
+    .withColumn("new_col_name",sf.when(sf.col(col_name).isin(list_name),"value to assign").otherwise("value if not true") )
+) 
+```
+
+or
+
+```python
+prueba = (
+    df
+    .withColumn("new_col_name",sf.when(sf.col(col_name).isin(list_name),"value to assign").otherwise(sf.col(col_name) )
+) 
+```
