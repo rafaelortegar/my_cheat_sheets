@@ -17,6 +17,11 @@ filter df with elements of list:
 ```python
 filtered_df = df.filter(F.col('col_name').isin(list_name))
 ```
+or
+```python
+filtered_df.where((filtered_df.col_name).isin(list_name))
+```
+
 
 Join 2 df's:
 ```python
