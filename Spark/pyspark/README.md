@@ -103,3 +103,12 @@ Filter by column value
 ```python
 df.filter(sf.col('column_name')==value_looking_for)
 ```
+
+from [stackoverflow](https://stackoverflow.com/questions/40421845/pyspark-dataframe-filter-or-include-based-on-list)
+```python
+def filter_spark_dataframe_by_list(df, column_name, filter_list):
+    """ Returns subset of df where df[column_name] is in filter_list """
+    spark = SparkSession.builder.getOrCreate()
+    filter_df = spark.createDataFrame(filter_list, df.schema[column_name].dataType)
+    return df.join(filter_df, df[column_name] == filter_df["value"])
+```
