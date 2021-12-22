@@ -2,6 +2,11 @@
 * [Sum a column in dataframe and return results as int](https://stackoverflow.com/questions/47812526/pyspark-sum-a-column-in-dataframe-and-return-results-as-int)
 
 
+drop column by name
+```python
+df.drop(col("firstname"))
+```
+
 list of unique values from column:
 ```python
 unique_list = [i.variable for i in df.select('variable').distinct().collect()]
