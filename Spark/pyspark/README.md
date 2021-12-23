@@ -112,3 +112,11 @@ def filter_spark_dataframe_by_list(df, column_name, filter_list):
     filter_df = spark.createDataFrame(filter_list, df.schema[column_name].dataType)
     return df.join(filter_df, df[column_name] == filter_df["value"])
 ```
+
+get table with unique count elements
+from [stackoverflow](https://stackoverflow.com/questions/40888946/spark-dataframe-count-distinct-values-of-every-column)
+```python
+from pyspark.sql.functions import col, countDistinct
+
+df.agg(*(countDistinct(col(c)).alias(c) for c in df.columns))
+```
