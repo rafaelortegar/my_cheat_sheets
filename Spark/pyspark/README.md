@@ -154,3 +154,12 @@ for pivot_col in pivot_cols:
 
 join_all(combined,keys).show()
 ```
+
+Split Time Series pySpark data frame into test & train without using random split
+from [stackoverflow](https://stackoverflow.com/questions/51772908/split-time-series-pyspark-data-frame-into-test-train-without-using-random-spli)
+```python
+from pyspark.sql.functions import percent_rank
+from pyspark.sql import Window
+
+df = df.withColumn("rank", percent_rank().over(Window.partitionBy().orderBy("date")))
+```
