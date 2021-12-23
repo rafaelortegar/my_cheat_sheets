@@ -120,3 +120,37 @@ from pyspark.sql.functions import col, countDistinct
 
 df.agg(*(countDistinct(col(c)).alias(c) for c in df.columns))
 ```
+
+get Dummies on pyspark
+from [stackoverflow](https://stackoverflow.com/questions/42805663/e-num-get-dummies-in-pySpark)
+```python
+pivot_cols = ['TYPE','CODE']
+keys = ['ID','TYPE','CODE']
+
+before = sc.parallelize([(1,'A','X1'),
+                         (2,'B','X2'),
+                         (3,'B','X3'),
+                         (1,'B','X3'),
+                         (2,'C','X2'),
+                         (3,'C','X2'),
+                         (1,'C','X1'),
+                         (1,'B','X1')]).toDF(['ID','TYPE','CODE'])                         
+
+#Helper function to recursively join a list of dataframes
+#Can be simplified if you only need two columns
+def join_all(dfs,keys):
+    if len(dfs) > 1:
+        return dfs[0].join(join_all(dfs[1:],keys), on = keys, how = 'inner')
+    else:
+        return dfs[0]
+
+dfs = []
+combined = []
+for pivot_col in pivot_cols:
+    pivotDF = before.groupBy(keys).pivot(pivot_col).count()
+    new_names = pivotDF.columns[:len(keys)] +  ["e_{0}_{1}".format(pivot_col, c) for c in pivotDF.columns[len(keys):]]        
+    df = pivotDF.toDF(*new_names).fillna(0)    
+    combined.append(df)
+
+join_all(combined,keys).show()
+```
