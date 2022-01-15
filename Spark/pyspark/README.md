@@ -163,3 +163,9 @@ from pyspark.sql import Window
 
 df = df.withColumn("rank", percent_rank().over(Window.partitionBy().orderBy("date")))
 ```
+
+
+Count every element of unique values on pyspark column:
+```python
+df.groupBy('col_name').count().show()
+```
