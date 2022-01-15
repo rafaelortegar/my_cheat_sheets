@@ -169,3 +169,4 @@ Count every element of unique values on pyspark column:
 ```python
 df.groupBy('col_name').count().show()
 ```
+[good guide](https://www.analyticsvidhya.com/blog/2019/11/build-machine-learning-pipelines-pyspark/)
