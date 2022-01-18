@@ -184,3 +184,29 @@ def get_dummies(dataframe, column_name):
     
     return dataframe.select(column_name, *dummies_col)
 ```
+
+
+Get dummies for pyspark **my version**:
+```python
+def pyspark_get_dummies(dataframe, columns_to_one_hot_encode):
+    
+    for pivot_col in columns_to_one_hot_encode:
+        keys = dataframe.columns
+        keys.remove(pivot_col)
+        pivotDF = dataframe.groupBy(keys).pivot(pivot_col).count()
+        pivoted_columns = pivotDF.columns
+        added_columns = [i for i in pivoted_columns if i not in keys]
+        added_columns
+
+        pivotDF = pivotDF.fillna(0, subset=added_columns)
+
+        for added_col in added_columns:
+            pivotDF = pivotDF.withColumnRenamed(added_col,(pivot_col+"_"+added_col))
+    
+    return pivotDF
+```
+
+fill na for specific columns:
+```python
+df = df.fillna(0, subset=['colname_a', 'colname_b'])
+```
