@@ -171,3 +171,16 @@ df.groupBy('col_name').count().show()
 ```
 [good guide](https://www.analyticsvidhya.com/blog/2019/11/build-machine-learning-pipelines-pyspark/)
 [categ_guide](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/?utm_source=blog&utm_medium=build-machine-learning-pipelines-pyspark)
+
+
+Get dummies for pyspark:
+```python
+def get_dummies(dataframe, column_name):
+
+    import pyspark.sql.functions as F
+    
+    list_values = [dataframe.select(column_name).distinct().collect()[i][0] for i in range(0, dataframe.select(column_name).distinct().count())]
+    dummies_col = [F.when(F.col(column_name) == value, 1).otherwise(0).alias("{}_{}".format(column_name, value)) for value in list_values]
+    
+    return dataframe.select(column_name, *dummies_col)
+```
