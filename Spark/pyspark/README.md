@@ -210,3 +210,13 @@ fill na for specific columns:
 ```python
 df = df.fillna(0, subset=['colname_a', 'colname_b'])
 ```
+
+Add column with count of zeros by row
+```python
+df.withColumn(
+    "count",
+    sum([
+            F.when(F.col(cl) != 0, 1).otherwise(0) for cl in df.columns[1:]
+    ])
+).show()
+```
