@@ -1,6 +1,7 @@
 * [PySpark split() Column into Multiple Columns](https://sparkbyexamples.com/pyspark/pyspark-split-dataframe-column-into-multiple-columns/)
 * [Sum a column in dataframe and return results as int](https://stackoverflow.com/questions/47812526/pyspark-sum-a-column-in-dataframe-and-return-results-as-int)
 * [Extracting, transforming and selecting features](https://spark.apache.org/docs/latest/ml-features)
+* [Feature Engineering in pyspark](https://dhiraj-p-rai.medium.com/essentials-of-feature-engineering-in-pyspark-part-i-76a57680a85)
 
 drop column by name
 ```python
