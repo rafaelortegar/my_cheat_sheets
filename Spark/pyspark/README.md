@@ -220,3 +220,11 @@ df.withColumn(
     ])
 ).show()
 ```
+
+Split a vector/list in a pyspark DataFrame into columns
+```python
+import pyspark.sql.functions as F
+
+df2 = df.select([F.col("Col_name")[i] for i in df.columns])
+df2.show()
+```
