@@ -229,3 +229,19 @@ import pyspark.sql.functions as F
 df2 = df.select([F.col("Col_name")[i] for i in df.columns])
 df2.show()
 ```
+
+Ways to get the max value of a column:
+```python
+# Method 1: Use describe()
+float(df.describe("A").filter("summary = 'max'").select("A").collect()[0].asDict()['A'])
+
+# Method 2: Use SQL
+df.registerTempTable("df_table")
+spark.sql("SELECT MAX(A) as maxval FROM df_table").collect()[0].asDict()['maxval']
+
+# Method 3: Use groupby()
+df.groupby().max('A').collect()[0].asDict()['max(A)']
+
+# Method 4: Convert to RDD
+df.select("A").rdd.max()[0]
+```
