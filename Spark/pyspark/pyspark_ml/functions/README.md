@@ -1,3 +1,4 @@
+## Converting a DenseVector column to an array_column
 There is a function to convert a Dense Vector to an array after doing a pyspark.ml transformation:
 ```python
 from pyspark.ml.functions import vector_to_array
