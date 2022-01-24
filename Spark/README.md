@@ -9,3 +9,7 @@
 * [Nested DAta Types in Spark 3.1](https://towardsdatascience.com/nested-data-types-in-spark-3-1-663e5ed2f2aa)
 * [Data exploration and modeling with Spark](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/spark-data-exploration-modeling)
 * [PySpark SQL Types (DataType) with Examples](https://sparkbyexamples.com/pyspark/pyspark-sql-types-datatype-with-examples/)
+* [PySpark Usage Guide for Pandas with Apache Arrow](https://spark.apache.org/docs/2.4.0/sql-pyspark-pandas-with-arrow.html)
+* [Optimize conversion between PySpark and pandas DataFrames](https://docs.databricks.com/spark/latest/spark-sql/spark-pandas.html)
+* [One Weird Trick to Fix Your Pyspark Schemas](http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/)
+* [Create Spark DataFrame. Can not infer schema for type: <type 'float'>](https://stackoverflow.com/questions/32742004/create-spark-dataframe-can-not-infer-schema-for-type-type-float)
