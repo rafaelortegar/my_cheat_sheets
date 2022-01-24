@@ -3,5 +3,6 @@
 * [VectorAssembler Examples](https://spark.apache.org/docs/3.1.1/api/python/reference/api/pyspark.ml.feature.VectorAssembler.html)
 * [Learn How To Use Spark ML and Spark Streaming](https://towardsdatascience.com/learn-how-to-use-spark-ml-and-spark-streaming-3a731485d052)
 * [Store DenseVector in DataFrame column in PySpark](https://stackoverflow.com/questions/57522319/store-densevector-in-dataframe-column-in-pyspark)
+* [Feature Transformations in Data Science: A Detailed Walkthrough](https://www.analyticsvidhya.com/blog/2021/05/feature-transformations-in-data-science-a-detailed-walkthrough/)
 * 
 
