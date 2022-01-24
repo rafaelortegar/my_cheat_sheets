@@ -14,3 +14,4 @@
 * [One Weird Trick to Fix Your Pyspark Schemas](http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/)
 * [Create Spark DataFrame. Can not infer schema for type: <type 'float'>](https://stackoverflow.com/questions/32742004/create-spark-dataframe-can-not-infer-schema-for-type-type-float)
 * [PySpark - How to deal with list of lists as a column of a dataframe](https://stackoverflow.com/questions/60931933/pyspark-how-to-deal-with-list-of-lists-as-a-column-of-a-dataframe)
+* [Create Spark session](https://kontext.tech/column/spark/316/pyspark-convert-python-arraylist-to-spark-data-frame)
