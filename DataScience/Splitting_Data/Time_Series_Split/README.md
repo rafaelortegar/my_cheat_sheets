@@ -1,2 +1,8 @@
 * [How to create a train/test split of time-series data by year?](https://stackoverflow.com/questions/58069691/how-to-create-a-train-test-split-of-time-series-data-by-year)
 * [Time Based Cross Validation](https://towardsdatascience.com/time-based-cross-validation-d259b13d42b8)
+* [sklearn.model_selection.TimeSeriesSplit Official](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html)
+* [sklearn.model_selection.TimeSeriesSplit](https://runebook.dev/es/docs/scikit_learn/modules/generated/sklearn.model_selection.timeseriessplit)
+* [Time-based cross-validation](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html#time-based-cross-validation)
+* [Visualizing cross-validation behavior in scikit-learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html#visualizing-cross-validation-behavior-in-scikit-learn)
+* [Split Time Series pySpark data frame into test & train without using random split](https://stackoverflow.com/questions/51772908/split-time-series-pyspark-data-frame-into-test-train-without-using-random-spli)
+* [TimeSeriesSplit: how to use it](https://www.kaggle.com/tomwarrens/timeseriessplit-how-to-use-it)
