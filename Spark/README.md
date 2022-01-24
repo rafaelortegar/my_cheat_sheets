@@ -7,4 +7,5 @@
 * [Extracting, transforming and selecting features](https://spark.apache.org/docs/latest/ml-features#extracting-transforming-and-selecting-features)
 * [Data Types](https://spark.apache.org/docs/latest/sql-ref-datatypes.html#data-types)
 * [Nested DAta Types in Spark 3.1](https://towardsdatascience.com/nested-data-types-in-spark-3-1-663e5ed2f2aa)
+* [Data exploration and modeling with Spark](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/spark-data-exploration-modeling)
 * 
