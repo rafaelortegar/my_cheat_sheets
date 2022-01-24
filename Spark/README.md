@@ -25,3 +25,7 @@
 * [pyarrow.lib.ArrowInvalid: ('Could not convert X with type Y: did not recognize Python value type when inferring an Arrow data type')](https://stackoverflow.com/questions/59636745/pyarrow-lib-arrowinvalid-could-not-convert-x-with-type-y-did-not-recognize-p)
 
 
+
+
+* [spark-sklearn](https://github.com/databricks/spark-sklearn)
+* [integrating scikit-learn with pyspark](https://stackoverflow.com/questions/38187637/integrating-scikit-learn-with-pyspark)
