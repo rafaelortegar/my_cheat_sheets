@@ -13,3 +13,4 @@
 * [Optimize conversion between PySpark and pandas DataFrames](https://docs.databricks.com/spark/latest/spark-sql/spark-pandas.html)
 * [One Weird Trick to Fix Your Pyspark Schemas](http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/)
 * [Create Spark DataFrame. Can not infer schema for type: <type 'float'>](https://stackoverflow.com/questions/32742004/create-spark-dataframe-can-not-infer-schema-for-type-type-float)
+* [PySpark - How to deal with list of lists as a column of a dataframe](https://stackoverflow.com/questions/60931933/pyspark-how-to-deal-with-list-of-lists-as-a-column-of-a-dataframe)
