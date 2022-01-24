@@ -27,4 +27,4 @@ dentro del environment correspondiente.
 * [Rstudio](https://rstudio.com/products/rstudio/)
 * [cran r en ubuntu](https://cran.r-project.org/)
 
-
+* [Converting a PySpark DataFrame Column to a Python List](https://www.geeksforgeeks.org/converting-a-pyspark-dataframe-column-to-a-python-list/)
