@@ -28,3 +28,4 @@ dentro del environment correspondiente.
 * [cran r en ubuntu](https://cran.r-project.org/)
 
 * [Converting a PySpark DataFrame Column to a Python List](https://www.geeksforgeeks.org/converting-a-pyspark-dataframe-column-to-a-python-list/)
+* [How to Convert Pandas to PySpark DataFrame](https://sparkbyexamples.com/pyspark/convert-pandas-to-pyspark-dataframe/)
