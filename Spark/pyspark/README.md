@@ -258,4 +258,8 @@ df.groupBy("Profession").agg(F.mean('Age'), F.count('Age')).show()
 # Different columns
 df.groupBy("Profession").agg({'Age':'avg', 'Gender':'count'}).show()
 
+(df
+    .groupBy("order_item_order_id")
+    .agg(func.col("order_item_order_id"), func.sum("order_item_subtotal"))
+    .show())
 ```
