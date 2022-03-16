@@ -8,6 +8,11 @@ drop column by name
 ```python
 df.drop(col("firstname"))
 ```
+drop rows with null values
+from [stackOverflow](https://sparkbyexamples.com/pyspark/pyspark-drop-rows-with-null-values/)
+```python
+df.na.drop("any").show(false)
+```
 
 list of unique values from column:
 ```python
