@@ -31,6 +31,7 @@ filtered_df.where((filtered_df.col_name).isin(list_name))
 
 
 Join 2 df's:
+guide is [here](https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/)
 ```python
 df_joined = df_orig.join(df_to_join, on=join_cols, how='left')
 ```
