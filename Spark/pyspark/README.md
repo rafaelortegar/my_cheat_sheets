@@ -246,3 +246,16 @@ df.groupby().max('A').collect()[0].asDict()['max(A)']
 # Method 4: Convert to RDD
 df.select("A").rdd.max()[0]
 ```
+
+
+group and operations on more than one column
+from [stackoverflow](https://stackoverflow.com/questions/51632126/pysparkhow-to-calculate-avg-and-count-in-a-single-groupby)
+```python
+# Same column
+from pyspark.sql import functions as F
+df.groupBy("Profession").agg(F.mean('Age'), F.count('Age')).show()
+
+# Different columns
+df.groupBy("Profession").agg({'Age':'avg', 'Gender':'count'}).show()
+
+```
