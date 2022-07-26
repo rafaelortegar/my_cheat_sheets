@@ -298,3 +298,17 @@ def melt(
 
     return _tmp
 ```
+
+Sum all columns or list of columns from df by row
+from [stackoverflow](https://stackoverflow.com/questions/66293025/row-sum-of-a-each-row-in-a-dataframe-using-pyspark)
+```python
+import pyspark.sql.functions as F
+
+col_list = ['SUB1', 'SUB2', 'SUB3', 'SUB4']
+# or col_list = df.columns[16:20] # Or df.columns or list of columns
+
+df2 = df.withColumn(
+    'SUM1',
+    sum([F.col(c) for c in col_list])
+)
+```
