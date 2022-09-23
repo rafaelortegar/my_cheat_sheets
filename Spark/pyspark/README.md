@@ -312,3 +312,10 @@ df2 = df.withColumn(
     sum([F.col(c) for c in col_list])
 )
 ```
+
+Count number of null values by column on all columns
+from [sparkbyexamples](https://sparkbyexamples.com/pyspark/pyspark-find-count-of-null-none-nan-values/)
+```python
+df.select([count(when(isnan(c) | col(c).isNull(), c)).alias(c) for c in df.columns]
+   ).show()
+```
