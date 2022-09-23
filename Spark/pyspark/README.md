@@ -319,3 +319,19 @@ from [sparkbyexamples](https://sparkbyexamples.com/pyspark/pyspark-find-count-of
 df.select([count(when(isnan(c) | col(c).isNull(), c)).alias(c) for c in df.columns]
    ).show()
 ```
+
+Join DataFrames by specific key
+from [sparkbyexamples](missing_reference)
+```python
+df_joined = (
+    df1.join(
+        df2,
+        [
+            df1.key1 == df2.key1_1,
+            df1.key2 == df2.key2_1
+        ],
+        "left",
+    )
+    .drop(*['key1_1','key2_1'])
+)
+```
