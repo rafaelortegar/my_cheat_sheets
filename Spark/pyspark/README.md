@@ -335,3 +335,9 @@ df_joined = (
     .drop(*['key1_1','key2_1'])
 )
 ```
+
+Sort data Frame
+from [sparkbyexamples](https://sparkbyexamples.com/pyspark/pyspark-orderby-and-sort-explained/)
+```python
+df.sort(F.col("column_1"),F.col("column_2"))
+```
