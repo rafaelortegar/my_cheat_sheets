@@ -1,0 +1,3 @@
+* [Spark SQL Date/Datetime Function Examples](https://queirozf.com/entries/spark-sql-date-datetime-functions-examples)
+* [PySpark SQL Date and Timestamp Functions](https://sparkbyexamples.com/pyspark/pyspark-sql-date-and-timestamp-functions/)
+* [PySpark to_date() – Convert Timestamp to Date](https://sparkbyexamples.com/pyspark/pyspark-to_date-convert-timestamp-to-date/#:~:text=PySpark%20to_date()%20%E2%80%93%20Convert%20Timestamp%20to%20Date&text=PySpark%20timestamp%20(%20TimestampType%20)%20consists%20of,to%20date%20on%20DataFrame%20column.)

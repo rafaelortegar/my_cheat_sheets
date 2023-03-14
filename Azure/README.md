@@ -12,3 +12,4 @@
 * [liga](https://stackoverflow.com/questions/67503507/consume-python-package-from-azure-feed-in-a-local-not-azure-docker-instance)
 * [liga](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 * [liga](https://gist.github.com/noelbundick/0262aa0f37ec3f9a179137c622b6280d)
+* [Orquestación de ETLs en Azure utilizando Data Factory](https://keepler.io/es/2019/12/orquestacion-de-etls-en-azure-utilizando-data-factory/)
