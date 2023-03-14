@@ -1,3 +1,4 @@
+* [Machine Learning Case Study with Spark: Make it better](https://people.stat.sc.edu/haigang/improvement.html)
 * [Pyspark ML tutorial for beginners](https://www.kaggle.com/code/fatmakursun/pyspark-ml-tutorial-for-beginners/notebook)
 * [Execute MinMaxScaler on pyspark](https://stackoverflow.com/questions/60281354/apply-minmaxscaler-on-multiple-columns-in-pyspark)
 * [MinMaxScaler Examples](https://python.hotexamples.com/es/examples/pyspark.ml.feature/MinMaxScaler/-/python-minmaxscaler-class-examples.html)
