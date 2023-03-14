@@ -7,4 +7,5 @@
 * [Feature Transformations in Data Science: A Detailed Walkthrough](https://www.analyticsvidhya.com/blog/2021/05/feature-transformations-in-data-science-a-detailed-walkthrough/)
 * [Flint: A time-series library for Apache Spark](https://www.databricks.com/blog/2018/09/11/introducing-flint-a-time-series-library-for-apache-spark.html)
 * [Getting started with MLlib - binary classification example](https://www.databricks.com/notebooks/gallery/GettingStartedWithSparkMLlib.html)
+* [Tutorial de PySpark para principiantes: Ejemplo de aprendizaje automático](https://guru99.es/pyspark-tutorial/#10)
 
