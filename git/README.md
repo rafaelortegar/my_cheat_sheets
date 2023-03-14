@@ -17,5 +17,17 @@
 * [Git y Github | Curso Práctico de Git y Github Desde Cero](https://www.youtube.com/watch?v=HiXLkL42tMU&ab_channel=Fazt)
 * [Git Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 * [Git Fetch: A Step-By-Step Guide](https://careerkarma.com/blog/git-fetch/#:~:text=The%20git%20fetch%20command%20downloads,date%20with%20a%20remote%20repository.)
+* [Resolving conflicts during a Git rebase](https://codeinthehole.com/guides/resolving-conflicts-during-a-git-rebase/)
+* [Resolve conflicts](https://www.jetbrains.com/help/pycharm/resolving-conflicts.html?source=google&medium=cpc&campaign=14124046290&gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o1osBrNplDdGsuqn-YN-jdEFd2Can6x5QiOAL5hzNs3oisNhhI1v8kaAnW2EALw_wcB#distributed-version-control-systems)
+* [Resolving merge conflicts](https://docs.openstack.org/doc-contrib-guide/additional-git-workflow/rebase.html)
+* [git rebase merge conflict](https://stackoverflow.com/questions/11709885/git-rebase-merge-conflict)
+* [How do you use the `git rebase --edit-todo` cmd in interactive rebase when all current to-do's are set to `reword`?](https://stackoverflow.com/questions/47190265/how-do-you-use-the-git-rebase-edit-todo-cmd-in-interactive-rebase-when-all-c)
+* [Resolver conflictos de fusión después de una rebase de Git](https://docs.github.com/es/get-started/using-git/resolving-merge-conflicts-after-a-git-rebase)
+* [git-config documentation](https://git-scm.com/docs/git-config#Documentation/git-config.txt-difftool)
 * []()
 * []()
+* []()
+
+
+
+
