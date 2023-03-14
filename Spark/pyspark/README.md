@@ -1,3 +1,4 @@
+* [PySpark How to Filter Rows with NULL Values](https://sparkbyexamples.com/pyspark/pyspark-filter-rows-with-null-values/)
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
 * [pyspark split dataframe by rows](https://www.grepper.com/answers/371707/pyspark+split+dataframe+by+rows)
 * [Fill NAs with mode of column based on aggregation of other columns](https://stackoverflow.com/questions/65928710/pyspark-fill-nas-with-mode-of-column-based-on-aggregation-of-other-columns)
