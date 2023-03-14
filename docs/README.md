@@ -69,3 +69,5 @@
 * [MLOps Basics](https://valohai.com/mlops/)
 * [¿Qué es MLOps? nvidia](https://la.blogs.nvidia.com/2020/09/08/que-es-mlops/)
 * [Practical Data Science with Hadoop and Spark: Designing and Buildin](https://books.google.com.mx/books?id=RHeuDQAAQBAJ&pg=PT155&lpg=PT155&dq=how+to+make+temporal+split+with+pyspark&source=bl&ots=NE0K2dxEsj&sig=ACfU3U3krIT1oosCnThJon-qB5jjqsr7lQ&hl=es&sa=X&ved=2ahUKEwjSp__f9sD1AhVsJEQIHTBrBicQ6AF6BAg0EAM#v=onepage&q=how%20to%20make%20temporal%20split%20with%20pyspark&f=false)
+* [MLOps: canalizaciones de automatización y entrega continua en el aprendizaje automático](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=es-419)
+* [Data pipelines](https://campus.datacamp.com/pdf/web/viewer.html?file=https://projector-video-pdf-converter.datacamp.com/24907/chapter1.pdf#page=77)
