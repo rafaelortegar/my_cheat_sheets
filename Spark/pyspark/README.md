@@ -1,3 +1,8 @@
+* [pyspark: merge (outer-join) two data frames](https://stackoverflow.com/questions/38063657/pyspark-merge-outer-join-two-data-frames)
+* [Merge two DataFrames in PySpark](https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/)
+* [dates with pyspark](https://mungingdata.com/apache-spark/dates-times/)
+* [Working with dates and times in Spark](https://mrpowers.medium.com/working-with-dates-and-times-in-spark-491a9747a1d2)
+* [PySpark Date Functions](https://sqlandhadoop.com/pyspark-date-functions/)
 * [PySpark How to Filter Rows with NULL Values](https://sparkbyexamples.com/pyspark/pyspark-filter-rows-with-null-values/)
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
 * [pyspark split dataframe by rows](https://www.grepper.com/answers/371707/pyspark+split+dataframe+by+rows)
