@@ -1,3 +1,8 @@
 * [Python Progress Bar](https://stackoverflow.com/questions/3160699/python-progress-bar)
 * [ConsoleProgressBar](https://mallikarjuna_g.gitbooks.io/spark/content/spark-sparkcontext-ConsoleProgressBar.html)
 * [Spark Progress Monitor](https://pixiedust.github.io/pixiedust/sparkmonitor.html)
+* [tqdm](https://github.com/tqdm/tqdm)
+* [How to make a terminal progress bar using tqdm](https://www.geeksforgeeks.org/python-how-to-make-a-terminal-progress-bar-using-tqdm/)
+* [Overview of TQDM: Python Progress Bar Library](https://www.analyticsvidhya.com/blog/2021/05/how-to-use-progress-bars-in-python/)
+* [tqdm documentation](https://tqdm.github.io/)
+* [tqdm objects](https://tqdm.github.io/docs/notebook/)
