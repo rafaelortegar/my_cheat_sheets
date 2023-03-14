@@ -10,4 +10,5 @@
 * [Tutorial de PySpark para principiantes: Ejemplo de aprendizaje automático](https://guru99.es/pyspark-tutorial/#10)
 * [Python pyspark.ml.Pipeline() Examples](https://www.programcreek.com/python/example/105437/pyspark.ml.Pipeline)
 * [Time-Series Forecasting with Spark ML: Part — 1](https://medium.com/analytics-vidhya/time-series-forecasting-with-spark-ml-part-1-4e888144ad27)
+* [Basic data preparation in Pyspark — Capping, Normalizing and Scaling](https://medium.com/@connectwithghosh/basic-data-preparation-in-pyspark-capping-normalizing-and-scaling-252ee7acba7d)
 
