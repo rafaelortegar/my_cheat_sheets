@@ -8,4 +8,6 @@
 * [Flint: A time-series library for Apache Spark](https://www.databricks.com/blog/2018/09/11/introducing-flint-a-time-series-library-for-apache-spark.html)
 * [Getting started with MLlib - binary classification example](https://www.databricks.com/notebooks/gallery/GettingStartedWithSparkMLlib.html)
 * [Tutorial de PySpark para principiantes: Ejemplo de aprendizaje automático](https://guru99.es/pyspark-tutorial/#10)
+* [Python pyspark.ml.Pipeline() Examples](https://www.programcreek.com/python/example/105437/pyspark.ml.Pipeline)
+* [Time-Series Forecasting with Spark ML: Part — 1](https://medium.com/analytics-vidhya/time-series-forecasting-with-spark-ml-part-1-4e888144ad27)
 
