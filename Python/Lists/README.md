@@ -9,3 +9,4 @@ https://thispointer.com/python-how-to-check-if-an-item-exists-in-list-search-by-
 * [How to compare two lists in Python?](https://www.tutorialspoint.com/how-to-compare-two-lists-in-python)
 * [Python find elements in one list that are not in the other ](https://stackoverflow.com/questions/41125909/python-find-elements-in-one-list-that-are-not-in-the-other)
 * [Append values to a set in Python](https://stackoverflow.com/questions/3392354/append-values-to-a-set-in-python)
+* [How To add Elements to a List in Python](https://www.digitalocean.com/community/tutorials/python-add-to-list)
