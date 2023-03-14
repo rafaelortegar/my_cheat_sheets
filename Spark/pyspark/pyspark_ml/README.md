@@ -18,4 +18,6 @@
 * [Feature Selection with PySpark](https://antonhaugen.medium.com/feature-selection-with-pyspark-a172d214f0b7)
 * [Normalizer](https://spark.apache.org/docs/3.0.0-preview/ml-features.html#normalizer)
 * [Spark Pipelines: Elegant Yet Powerful](https://blog.insightdatascience.com/spark-pipelines-elegant-yet-powerful-7be93afcdd42)
+* [Export spark feature transformation pipeline to a file](https://stackoverflow.com/questions/53380005/export-spark-feature-transformation-pipeline-to-a-file)
+* [Retrieving transformed dataset from pipeline object in pyspark.ml.pipeline](https://stackoverflow.com/questions/49779027/retrieving-transformed-dataset-from-pipeline-object-in-pyspark-ml-pipeline)
 
