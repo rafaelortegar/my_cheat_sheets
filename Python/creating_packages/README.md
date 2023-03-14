@@ -1,3 +1,8 @@
 [Instalación de paqueterías desde repositorios de github](https://stackoverflow.com/questions/3472430/how-can-i-make-setuptools-install-a-package-thats-not-on-pypi)
 [Instalacion desde github](https://codeinthehole.com/tips/using-pip-and-requirementstxt-to-install-from-the-head-of-a-github-branch/)
 * [How to Create a Wheel file for your Python package and import it in another project](https://www.realpythonproject.com/how-to-create-a-wheel-file-for-your-python-package-and-import-it-in-another-project/)
+* [An Overview of Packaging for Python](https://packaging.python.org/en/latest/overview/)
+* [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
+* [Documenting Python Projects With Sphinx and Read the Docs](https://realpython.com/)
+* [Documenting Python Projects With Sphinx and Read the Docs](https://realpython.com/courses/python-sphinx/)
+* [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
