@@ -1,3 +1,4 @@
+* [Working with PySpark DataFrames](https://medium.com/@aniketmohan/working-with-pyspark-dataframes-456c7bdb5b5c)
 * [Pyspark dataframe: Summing over a column while grouping over another](https://stackoverflow.com/questions/33961899/pyspark-dataframe-summing-over-a-column-while-grouping-over-another)
 * [PySpark Add a New Column to DataFrame](https://sparkbyexamples.com/pyspark/pyspark-add-new-column-to-dataframe/)
 * [PySpark Groupby Explained with Example](https://sparkbyexamples.com/pyspark/pyspark-groupby-explained-with-example/)
