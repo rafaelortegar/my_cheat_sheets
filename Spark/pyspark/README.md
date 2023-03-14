@@ -1,3 +1,11 @@
+* [PySpark Groupby Explained with Example](https://sparkbyexamples.com/pyspark/pyspark-groupby-explained-with-example/)
+* [How to Pivot and Unpivot a Spark Data Frame](https://sparkbyexamples.com/spark/how-to-pivot-table-and-unpivot-a-spark-dataframe/)
+* [PySpark How to Filter Rows with NULL Values](https://sparkbyexamples.com/pyspark/pyspark-filter-rows-with-null-values/
+* [Simplify data conversion from Spark to PyTorch](https://www.databricks.com/notebooks/simple-aws/petastorm-spark-converter-pytorch.html)
+* [How to Parallelize and Distribute Collection in PySpark](https://medium.com/@nutanbhogendrasharma/how-to-parallelize-and-distribute-collection-in-pyspark-5f58c86d7582)
+* [pyspark equivalence of `df.loc`?](https://stackoverflow.com/questions/50311732/pyspark-equivalence-of-df-loc)
+* [Filtering a PySpark DataFrame using isin by exclusion](https://www.geeksforgeeks.org/filtering-a-pyspark-dataframe-using-isin-by-exclusion/)
+* [How to filter based on array value in PySpark?](https://newbedev.com/how-to-filter-based-on-array-value-in-pyspark)
 * [TYPECAST INTEGER TO STRING AND STRING TO INTEGER IN PYSPARK](https://www.datasciencemadesimple.com/typecast-integer-to-string-and-string-to-integer-in-pyspark/)
 * [Supported Data Types](https://spark.apache.org/docs/latest/sql-ref-datatypes.html)
 * [Cast Column Type With Examples](https://sparkbyexamples.com/pyspark/pyspark-cast-column-type/)
