@@ -1,3 +1,5 @@
+* [Convert continuous variables to categorical variables](https://notebook.community/MingChen0919/learning-apache-spark/notebooks/02-data-manipulation/.ipynb_checkpoints/2.3-continuous-variable-to-categorical-variable-checkpoint)
+* [How to transform a categorical variable in Spark into a set of columns coded as {0,1}?](https://stackoverflow.com/questions/30104726/how-to-transform-a-categorical-variable-in-spark-into-a-set-of-columns-coded-as)
 * [Converting one column from string to float_double](https://community.databricks.com/s/question/0D53f00001HKHe9CAH/pyspark-dataframe-converting-one-column-from-string-to-floatdouble)
 * [Compare two dataframes Pyspark](https://stackoverflow.com/questions/60279160/compare-two-dataframes-pyspark/60284807)
 * [How to find count of Null and Nan values for each column in a PySpark dataframe efficiently?](https://stackoverflow.com/questions/44627386/how-to-find-count-of-null-and-nan-values-for-each-column-in-a-pyspark-dataframe)
