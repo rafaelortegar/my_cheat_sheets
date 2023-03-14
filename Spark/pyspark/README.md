@@ -1,3 +1,4 @@
+* [pyspark join types](https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/#pyspark-join-types)
 * [pyspark: merge (outer-join) two data frames](https://stackoverflow.com/questions/38063657/pyspark-merge-outer-join-two-data-frames)
 * [Merge two DataFrames in PySpark](https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/)
 * [dates with pyspark](https://mungingdata.com/apache-spark/dates-times/)
