@@ -1,3 +1,12 @@
+* [Pyspark dataframe: Summing over a column while grouping over another](https://stackoverflow.com/questions/33961899/pyspark-dataframe-summing-over-a-column-while-grouping-over-another)
+* [PySpark Add a New Column to DataFrame](https://sparkbyexamples.com/pyspark/pyspark-add-new-column-to-dataframe/)
+* [PySpark Groupby Explained with Example](https://sparkbyexamples.com/pyspark/pyspark-groupby-explained-with-example/)
+* [Pyspark: GroupBy and Aggregate Functions](https://hendra-herviawan.github.io/pyspark-groupby-and-aggregate-functions.html)
+* [Extracting, transforming and selecting features](https://spark.apache.org/docs/3.0.0-preview/ml-features.html)
+* [Basic data preparation in Pyspark — Capping, Normalizing and Scaling](https://medium.com/@connectwithghosh/basic-data-preparation-in-pyspark-capping-normalizing-and-scaling-252ee7acba7d)
+* [GET DATA TYPE OF COLUMN IN PYSPARK (SINGLE & MULTIPLE COLUMNS)](https://www.datasciencemadesimple.com/data-type-of-column-in-pyspark-single-multiple-columns/)
+
+
 * [Plot Data from Apache Spark in Python/v3](https://plotly.com/python/v3/apache-spark/)
 * [PySpark apply function to column](https://sqlandhadoop.com/pyspark-apply-function-to-column/)
 * [PySpark SQL expr() (Expression ) Function](https://sparkbyexamples.com/pyspark/pyspark-sql-expr-expression-function/)

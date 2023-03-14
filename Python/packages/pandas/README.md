@@ -30,3 +30,5 @@ dentro del environment correspondiente.
 * [Converting a PySpark DataFrame Column to a Python List](https://www.geeksforgeeks.org/converting-a-pyspark-dataframe-column-to-a-python-list/)
 * [How to Convert Pandas to PySpark DataFrame](https://sparkbyexamples.com/pyspark/convert-pandas-to-pyspark-dataframe/)
 * [How to convert a list of lists into a Pandas DataFrame in Python](https://www.kite.com/python/answers/how-to-convert-a-list-of-lists-into-a-pandas-dataframe-in-python)
+* [How to Convert NumPy Array to Pandas DataFrame](https://datatofish.com/numpy-array-to-pandas-dataframe/)
+* [How do i take the sigmoid of all the records of a column in a dataset in python?](https://stackoverflow.com/questions/68403954/how-do-i-take-the-sigmoid-of-all-the-records-of-a-column-in-a-dataset-in-python)

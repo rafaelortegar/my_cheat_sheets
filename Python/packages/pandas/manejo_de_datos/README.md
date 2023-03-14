@@ -1,1 +1,2 @@
 * [How to concatenate multiple column values into a single column in Pandas dataframe](https://stackoverflow.com/questions/39291499/how-to-concatenate-multiple-column-values-into-a-single-column-in-pandas-datafra)
+* [Pandas Get DataFrame Columns by Data Type](https://sparkbyexamples.com/pandas/pandas-get-list-of-dataframe-columns-based-on-data-type/)
