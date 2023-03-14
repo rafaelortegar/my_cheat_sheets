@@ -5,7 +5,7 @@
 * [Extracting, transforming and selecting features](https://spark.apache.org/docs/3.0.0-preview/ml-features.html)
 * [Basic data preparation in Pyspark — Capping, Normalizing and Scaling](https://medium.com/@connectwithghosh/basic-data-preparation-in-pyspark-capping-normalizing-and-scaling-252ee7acba7d)
 * [GET DATA TYPE OF COLUMN IN PYSPARK (SINGLE & MULTIPLE COLUMNS)](https://www.datasciencemadesimple.com/data-type-of-column-in-pyspark-single-multiple-columns/)
-
+* [get datatype of column using pyspark](https://stackoverflow.com/questions/45033315/get-datatype-of-column-using-pyspark)
 
 * [Plot Data from Apache Spark in Python/v3](https://plotly.com/python/v3/apache-spark/)
 * [PySpark apply function to column](https://sqlandhadoop.com/pyspark-apply-function-to-column/)
