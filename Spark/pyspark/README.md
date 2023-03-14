@@ -1,3 +1,6 @@
+* [TYPECAST INTEGER TO STRING AND STRING TO INTEGER IN PYSPARK](https://www.datasciencemadesimple.com/typecast-integer-to-string-and-string-to-integer-in-pyspark/)
+* [Supported Data Types](https://spark.apache.org/docs/latest/sql-ref-datatypes.html)
+* [Cast Column Type With Examples](https://sparkbyexamples.com/pyspark/pyspark-cast-column-type/)
 * [Data exploration with pyspark](https://runawayhorse001.github.io/LearningApacheSpark/exploration.html)
 * [Convert continuous variables to categorical variables](https://notebook.community/MingChen0919/learning-apache-spark/notebooks/02-data-manipulation/.ipynb_checkpoints/2.3-continuous-variable-to-categorical-variable-checkpoint)
 * [How to transform a categorical variable in Spark into a set of columns coded as {0,1}?](https://stackoverflow.com/questions/30104726/how-to-transform-a-categorical-variable-in-spark-into-a-set-of-columns-coded-as)
