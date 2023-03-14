@@ -1,3 +1,4 @@
+* [Fill NAs with mode of column based on aggregation of other columns](https://stackoverflow.com/questions/65928710/pyspark-fill-nas-with-mode-of-column-based-on-aggregation-of-other-columns)
 * [PySpark -> interpolate values in one column](https://stackoverflow.com/questions/57114835/pyspark-interpolate-values-in-one-column)
 * [HandySpark: bringing pandas-like capabilities to Spark DataFrames](https://towardsdatascience.com/handyspark-bringing-pandas-like-capabilities-to-spark-dataframes-5f1bcea9039e)
 * [The Most Complete Guide to pySpark DataFrames](https://towardsdatascience.com/the-most-complete-guide-to-pyspark-dataframes-2702c343b2e8)
