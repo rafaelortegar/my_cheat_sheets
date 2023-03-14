@@ -1,4 +1,28 @@
+# Interesting Readings
 * [50 Public Sources for Machine Learning Datasets](https://towardsdatascience.com/datasets-for-machine-learning-and-data-science-a27a5d0ba03)
 * [Data Leakage on kaggle](https://www.kaggle.com/code/alexisbcook/data-leakage/tutorial)
 * [How to Explore Twitter Streaming Data using Python and Spark](https://medium.com/analytics-vidhya/exploring-twitter-streaming-data-using-python-and-spark-3f4f189ec660)
+* [A seamless way of tracking ML experiments: Weights & Biases](https://blog.wisesight.com/a-seamless-way-of-tracking-ml-experiments-weights-biases-524bf33ac6dd)
+* [Machine Learning Sorcerx — The Beginning](https://medium.com/@robertogsantos/machine-learning-mage-the-beginning-4a78ea1c9112)
+* [Is VS Code Not Python-Friendly? Try These 5 Extensions](https://betterprogramming.pub/is-vs-code-not-python-friendly-try-these-5-extensions-d4d51e41e072)
+* [Create your first ETL Pipeline in Apache Spark and Python](https://towardsdatascience.com/create-your-first-etl-pipeline-in-apache-spark-and-python-ec3d12e2c169)
+* [Simple Methods to deal with Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/?utm_source=blog&utm_medium=build-machine-learning-pipelines-pyspark)
+* [Want to Build Machine Learning Pipelines? A Quick Introduction using PySpark](https://www.analyticsvidhya.com/blog/2019/11/build-machine-learning-pipelines-pyspark/)
+* [Learn How to use the Transform Function in Pandas (with Python code)](https://www.analyticsvidhya.com/blog/2020/03/understanding-transform-function-python/)
+* [Transform Data in Pure Python](https://betterprogramming.pub/transform-data-in-pure-python-6d82e0ee3544)
+* [Python Data Transformation Tools for ETL](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
+* [Building a system that prevents drivers from falling asleep while driving using deep Learning](https://medium.com/@tauilabdelilah97/building-a-system-that-prevents-drivers-from-falling-asleep-while-driving-using-deep-learning-774067e6d060)
+* [Data Processing and Data Analysis — Improved workflow using AWS EMR](https://mlor.medium.com/data-analysis-and-plotting-with-aws-emr-pyspark-notebooks-8dae457b4e1e)
+* [The Continuous Cross-Nested Logit Model: Formulation and Application for Departure Time Choice](https://www.caee.utexas.edu/prof/kockelman/public_html/TRB10CCNL.pdf)
+* [Random Utility Theory](https://www.sciencedirect.com/topics/social-sciences/random-utility-theory#:~:text=Given%20the%20principle%20of%20utility,alternatives%20in%20the%20choice%20set.)
+* [Foreword](https://www.sciencedirect.com/science/article/pii/B9780128152966060017)
+* [Discrete choice](https://en.wikipedia.org/wiki/Discrete_choice)
+* [Multi seasonal time series analysis: decomposition and forecasting with Python](https://medium.com/analytics-vidhya/multi-seasonal-time-series-analysis-decomposition-and-forecasting-with-python-609409570007)
+* [Feature Transformation and Scaling Techniques to Boost Your Model Performance](https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/#:~:text=Log%20Transform&text=It%20is%20primarily%20used%20to,values%20as%20the%20column%20instead.)
+* [3 Chaotic Python Features To Avoid](https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13)
+* [tsai — State of the Art Machine Learning for Time Series, Part 1.](https://peijin.medium.com/tsai-state-of-the-art-machine-learning-for-time-series-part-1-dd4cac6707bc)
+* []()
+* []()
 
+
+# For Learning
