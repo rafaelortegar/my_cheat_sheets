@@ -1,3 +1,4 @@
+* [Data exploration with pyspark](https://runawayhorse001.github.io/LearningApacheSpark/exploration.html)
 * [Convert continuous variables to categorical variables](https://notebook.community/MingChen0919/learning-apache-spark/notebooks/02-data-manipulation/.ipynb_checkpoints/2.3-continuous-variable-to-categorical-variable-checkpoint)
 * [How to transform a categorical variable in Spark into a set of columns coded as {0,1}?](https://stackoverflow.com/questions/30104726/how-to-transform-a-categorical-variable-in-spark-into-a-set-of-columns-coded-as)
 * [Converting one column from string to float_double](https://community.databricks.com/s/question/0D53f00001HKHe9CAH/pyspark-dataframe-converting-one-column-from-string-to-floatdouble)
