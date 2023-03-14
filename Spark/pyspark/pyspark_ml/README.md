@@ -11,4 +11,11 @@
 * [Python pyspark.ml.Pipeline() Examples](https://www.programcreek.com/python/example/105437/pyspark.ml.Pipeline)
 * [Time-Series Forecasting with Spark ML: Part — 1](https://medium.com/analytics-vidhya/time-series-forecasting-with-spark-ml-part-1-4e888144ad27)
 * [Basic data preparation in Pyspark — Capping, Normalizing and Scaling](https://medium.com/@connectwithghosh/basic-data-preparation-in-pyspark-capping-normalizing-and-scaling-252ee7acba7d)
+* [Creación de una canalización de aprendizaje automático de Apache Spark](https://learn.microsoft.com/es-es/azure/hdinsight/spark/apache-spark-creating-ml-pipelines)
+* [Extracting, transforming and selecting features](https://spark.apache.org/docs/3.0.0-preview/ml-features.html#robustscaler)
+* [Uso de Tuberias (Pipelines) en Apache Spark en Python](https://www.diegocalvo.es/uso-de-tuberias-pipelines-en-apache-spark-en-python/)
+* [Pyspark for Data Science](https://www.kaggle.com/code/tientd95/pyspark-for-data-science/notebook)
+* [Feature Selection with PySpark](https://antonhaugen.medium.com/feature-selection-with-pyspark-a172d214f0b7)
+* [Normalizer](https://spark.apache.org/docs/3.0.0-preview/ml-features.html#normalizer)
+* [Spark Pipelines: Elegant Yet Powerful](https://blog.insightdatascience.com/spark-pipelines-elegant-yet-powerful-7be93afcdd42)
 
