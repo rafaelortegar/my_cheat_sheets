@@ -29,3 +29,6 @@
 
 * [spark-sklearn](https://github.com/databricks/spark-sklearn)
 * [integrating scikit-learn with pyspark](https://stackoverflow.com/questions/38187637/integrating-scikit-learn-with-pyspark)
+* [Spark Programming Guide](https://spark.apache.org/docs/2.1.2/programming-guide.html#spark-programming-guide)
+* [Exploring DataFrames with summary and describe](https://mungingdata.com/apache-spark/dataframe-summary-describe/)
+* [concept describe() in category pyspark](https://livebook.manning.com/concept/pyspark/describe)

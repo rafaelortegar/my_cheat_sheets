@@ -1,3 +1,4 @@
+* [Plot Data from Apache Spark in Python/v3](https://plotly.com/python/v3/apache-spark/)
 * [PySpark apply function to column](https://sqlandhadoop.com/pyspark-apply-function-to-column/)
 * [PySpark SQL expr() (Expression ) Function](https://sparkbyexamples.com/pyspark/pyspark-sql-expr-expression-function/)
 * [PySpark lit() – Add Literal or Constant to DataFrame](https://sparkbyexamples.com/pyspark/pyspark-lit-add-literal-constant/)
