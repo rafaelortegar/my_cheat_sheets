@@ -1,3 +1,5 @@
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
+* [pyspark split dataframe by rows](https://www.grepper.com/answers/371707/pyspark+split+dataframe+by+rows)
 * [Fill NAs with mode of column based on aggregation of other columns](https://stackoverflow.com/questions/65928710/pyspark-fill-nas-with-mode-of-column-based-on-aggregation-of-other-columns)
 * [PySpark -> interpolate values in one column](https://stackoverflow.com/questions/57114835/pyspark-interpolate-values-in-one-column)
 * [HandySpark: bringing pandas-like capabilities to Spark DataFrames](https://towardsdatascience.com/handyspark-bringing-pandas-like-capabilities-to-spark-dataframes-5f1bcea9039e)
