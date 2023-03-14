@@ -1,3 +1,4 @@
+* [Converting one column from string to float_double](https://community.databricks.com/s/question/0D53f00001HKHe9CAH/pyspark-dataframe-converting-one-column-from-string-to-floatdouble)
 * [Compare two dataframes Pyspark](https://stackoverflow.com/questions/60279160/compare-two-dataframes-pyspark/60284807)
 * [How to find count of Null and Nan values for each column in a PySpark dataframe efficiently?](https://stackoverflow.com/questions/44627386/how-to-find-count-of-null-and-nan-values-for-each-column-in-a-pyspark-dataframe)
 * [Merge two DataFrames in PySpark](https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/)
