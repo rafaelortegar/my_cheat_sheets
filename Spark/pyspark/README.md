@@ -1,3 +1,6 @@
+* [Compare two dataframes Pyspark](https://stackoverflow.com/questions/60279160/compare-two-dataframes-pyspark/60284807)
+* [How to find count of Null and Nan values for each column in a PySpark dataframe efficiently?](https://stackoverflow.com/questions/44627386/how-to-find-count-of-null-and-nan-values-for-each-column-in-a-pyspark-dataframe)
+* [Merge two DataFrames in PySpark](https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/)
 * [pyspark join types](https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/#pyspark-join-types)
 * [pyspark: merge (outer-join) two data frames](https://stackoverflow.com/questions/38063657/pyspark-merge-outer-join-two-data-frames)
 * [Merge two DataFrames in PySpark](https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/)
