@@ -32,3 +32,4 @@ dentro del environment correspondiente.
 * [How to convert a list of lists into a Pandas DataFrame in Python](https://www.kite.com/python/answers/how-to-convert-a-list-of-lists-into-a-pandas-dataframe-in-python)
 * [How to Convert NumPy Array to Pandas DataFrame](https://datatofish.com/numpy-array-to-pandas-dataframe/)
 * [How do i take the sigmoid of all the records of a column in a dataset in python?](https://stackoverflow.com/questions/68403954/how-do-i-take-the-sigmoid-of-all-the-records-of-a-column-in-a-dataset-in-python)
+* * [Pandas DataFrame.fillna() to replace Null values in dataframe](https://www.geeksforgeeks.org/python-pandas-dataframe-fillna-to-replace-null-values-in-dataframe/)
