@@ -3,3 +3,5 @@
 * [What is the difference between join and merge in Pandas?](https://www.geeksforgeeks.org/what-is-the-difference-between-join-and-merge-in-pandas/)
 * [How to use loc and iloc for selecting data in Pandas](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)
 * [8 Ways to Filter Pandas DataFrames](https://builtin.com/data-science/pandas-filter)
+* [TOP 10 WAYS TO FILTER PANDAS DATAFRAME](https://www.youngwonks.com/blog/top-10-ways-to-filter-pandas-dataframe)
+* [pandas.DataFrame.filter](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.filter.html)
