@@ -1,3 +1,4 @@
+* [Append 2 dataframes with pyspark](https://www.learneasysteps.com/steps-to-append-2-dataframes-in-pyspark/)
 * [PySpark Groupby Explained with Example](https://sparkbyexamples.com/pyspark/pyspark-groupby-explained-with-example/)
 * [How to Pivot and Unpivot a Spark Data Frame](https://sparkbyexamples.com/spark/how-to-pivot-table-and-unpivot-a-spark-dataframe/)
 * [PySpark How to Filter Rows with NULL Values](https://sparkbyexamples.com/pyspark/pyspark-filter-rows-with-null-values/
