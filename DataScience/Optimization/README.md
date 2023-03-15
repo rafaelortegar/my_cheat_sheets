@@ -1,3 +1,6 @@
+* [Mezclas gaussianas Fundamentos de Machine Learning 9](https://www.youtube.com/watch?v=IqU-xGujW_c)
+* [Modelos de Mezclas Gaussianas](https://www.youtube.com/watch?v=RmKQ_LTlSPw)
+* [modelos de mezcla gaussiana explicacion](https://www.youtube.com/results?search_query=modelos+de+mezcla+gaussiana+explicacion)
 * [Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html)
 * [Multi-objective optimization](https://www.wikiwand.com/en/Multi-objective_optimization#Solution)
 * [Portfolio optimization](https://www.wikiwand.com/en/Portfolio_optimization)
