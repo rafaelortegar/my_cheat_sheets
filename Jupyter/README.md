@@ -16,3 +16,5 @@ $ jupyter notebook
 [Kubeflow pipelines](https://github.com/kubeflow/pipelines)
 
 [jupyter notebooks on ec2 instance](https://medium.com/finbox/connecting-jupyter-notebook-to-aws-ec2-instance-bba0af52a6b8)
+
+* [ipywidgets](https://docs.databricks.com/notebooks/ipywidgets.html)
