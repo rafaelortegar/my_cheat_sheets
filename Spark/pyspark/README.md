@@ -1,3 +1,4 @@
+* [pyspark.sql.DataFrame.subtract](https://spark.apache.org/docs/3.2.1/api/python/reference/api/pyspark.sql.DataFrame.subtract.html)
 * [A Developer’s View Into Spark’s Memory Model](https://www.databricks.com/session/a-developers-view-into-sparks-memory-model)
 * [Apache Spark Memory Management](https://medium.com/analytics-vidhya/apache-spark-memory-management-49682ded3d42)
 * [A PySpark Example for Dealing with Larger than Memory Datasets](https://towardsdatascience.com/a-pyspark-example-for-dealing-with-larger-than-memory-datasets-70dbc82b0e98)
