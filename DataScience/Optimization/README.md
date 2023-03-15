@@ -6,3 +6,4 @@
 * [Optimization and root finding (scipy.optimize)](https://docs.scipy.org/doc/scipy/reference/optimize.html#)
 * [Maximize a function with many parameters (python)](https://stackoverflow.com/questions/17814169/maximize-a-function-with-many-parameters-python)
 * [Mixture models](https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf)
+* [Introduction to Mixture Models](https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html)
