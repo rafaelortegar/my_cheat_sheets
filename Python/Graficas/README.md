@@ -9,3 +9,6 @@
 * [Dash is an ideal Python based front-end for your Databricks Spark Backend](https://medium.com/plotly/dash-is-an-ideal-front-end-for-your-databricks-spark-backend-212ee3cae6cc)
 * [Building Plotly Dash Apps on a Lakehouse with Databricks SQL](https://medium.com/plotly/building-plotly-dash-apps-on-a-lakehouse-with-databricks-sql-b9761c201717)
 * [Databricks Visualizations](https://docs.databricks.com/visualizations/index.html)
+* [Ejemplos de Dash](https://dash.gallery/Portal/)
+* [Tutorial de Kaggle para plotly](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners)
+* [Plotly graph Gallery](https://www.python-graph-gallery.com/plotly/)
