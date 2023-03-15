@@ -6,3 +6,5 @@
 * [Documenting Python Projects With Sphinx and Read the Docs](https://realpython.com/)
 * [Documenting Python Projects With Sphinx and Read the Docs](https://realpython.com/courses/python-sphinx/)
 * [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
+* [Poetry basic usage](https://python-poetry.org/docs/basic-usage/)
+* [Poetry](https://python-poetry.org/)
