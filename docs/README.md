@@ -21,8 +21,8 @@
 * [Feature Transformation and Scaling Techniques to Boost Your Model Performance](https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/#:~:text=Log%20Transform&text=It%20is%20primarily%20used%20to,values%20as%20the%20column%20instead.)
 * [3 Chaotic Python Features To Avoid](https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13)
 * [tsai — State of the Art Machine Learning for Time Series, Part 1.](https://peijin.medium.com/tsai-state-of-the-art-machine-learning-for-time-series-part-1-dd4cac6707bc)
-* []()
-* []()
+* [D3 JavaScript](https://github.com/d3/d3/wiki)
+* [Hystrix](https://github.com/Netflix/Hystrix/wiki)
 
 
 # For Learning
