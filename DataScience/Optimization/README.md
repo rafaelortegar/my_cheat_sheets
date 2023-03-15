@@ -1,3 +1,4 @@
+* [Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html)
 * [Multi-objective optimization](https://www.wikiwand.com/en/Multi-objective_optimization#Solution)
 * [Portfolio optimization](https://www.wikiwand.com/en/Portfolio_optimization)
 * [How to optimize a function by maximizing 1 variable and minimizing another?](https://cs.stackexchange.com/questions/52071/how-to-optimize-a-function-by-maximizing-1-variable-and-minimizing-another)
