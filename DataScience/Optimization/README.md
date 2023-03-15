@@ -1,0 +1,6 @@
+* [Multi-objective optimization](https://www.wikiwand.com/en/Multi-objective_optimization#Solution)
+* [Portfolio optimization](https://www.wikiwand.com/en/Portfolio_optimization)
+* [How to optimize a function by maximizing 1 variable and minimizing another?](https://cs.stackexchange.com/questions/52071/how-to-optimize-a-function-by-maximizing-1-variable-and-minimizing-another)
+* [Optimization Methods](https://mech.iitm.ac.in/nspch52.pdf)
+* [Optimization and root finding (scipy.optimize)](https://docs.scipy.org/doc/scipy/reference/optimize.html#)
+* [Maximize a function with many parameters (python)](https://stackoverflow.com/questions/17814169/maximize-a-function-with-many-parameters-python)
