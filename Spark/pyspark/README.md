@@ -1,3 +1,5 @@
+* [PySpark – max()](https://linuxhint.com/max-pyspark/)
+* [Best way to get the max value in a Spark dataframe column](https://intellipaat.com/community/4448/best-way-to-get-the-max-value-in-a-spark-dataframe-column)
 * [Spark Performance Tuning & Best Practices](https://sparkbyexamples.com/spark/spark-performance-tuning/)
 * [PySpark – Coding Standards & Best Practices](https://blogs.perficient.com/2022/09/30/pyspark-coding-standards-best-practices/)
 * [Best Practices and Performance Tuning Activities for PySpark](https://www.analyticsvidhya.com/blog/2021/08/best-practices-and-performance-tuning-activities-for-pyspark/)
