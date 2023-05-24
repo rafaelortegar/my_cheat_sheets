@@ -12,3 +12,7 @@
 * [Ejemplos de Dash](https://dash.gallery/Portal/)
 * [Tutorial de Kaggle para plotly](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners)
 * [Plotly graph Gallery](https://www.python-graph-gallery.com/plotly/)
+
+# Graficando mapas:
+
+* [How to plot coordinates on a map?](https://www.fusebulbs.com/how-to-plot-coordinates-on-the-map-python/#:~:text=1%3EImport%20comma%2Dseparated%20text,map%20by%20using%20for%20loop.)
