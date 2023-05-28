@@ -26,3 +26,11 @@ $$ Coefficient of Variation = \frac{\sigma}{\mu} $$
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/85727d26-3f5e-4828-bec2-ef0bd793a6c9)
 
 for when data is not bel shaped
+
+# Distributions
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3ad8ca6b-170c-4024-b54b-c1683cc85656)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/fc6f2da0-91ae-4148-b7b0-8809113459ca)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/df29a503-f9bc-4d9d-a2a5-accdd6945337)
