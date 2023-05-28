@@ -40,4 +40,7 @@ In a boxplot, the outliers are calculated as those outside the range of 1.5*IQR 
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/90081b9a-5576-45fe-947d-0ab48aee945e)
 
+# Correlation Analysis
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e5440ff8-39cc-432d-8b73-78e3fb035a4f)
 
