@@ -35,5 +35,6 @@ for when data is not bel shaped
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/df29a503-f9bc-4d9d-a2a5-accdd6945337)
 
-![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b15667da-4607-417a-851b-8c6ecf6ecb68)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/90081b9a-5576-45fe-947d-0ab48aee945e)
+
 
