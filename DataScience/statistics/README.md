@@ -1,3 +1,7 @@
+# Inter Quartile Range
+
+$$Inter Quartile Range = Q_3 - Q_1$$
+
 # Sample
 
 $$ variance = \frac{1}{(n-1)} * \sum\limits _{i=1} ^{n}{( x_i - \bar{x})}^{2} $$ 
@@ -20,4 +24,5 @@ $$ Coefficient of Variation = \frac{\sigma}{\mu} $$
 
 # Chebishev rule
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/85727d26-3f5e-4828-bec2-ef0bd793a6c9)
+
 for when data is not bel shaped
