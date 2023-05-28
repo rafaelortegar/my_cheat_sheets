@@ -50,4 +50,4 @@ This correlation coefficioent removes the units.
 
 # Probability
 
-$$ \frac{number of ocurrences of the event}{number total of events} $$
+$$ probability =  \frac{number of ocurrences of the event}{number total of events} $$
