@@ -1,3 +1,11 @@
+- $A \cup B$
+- $A \cap B$
+- $$ P($A \cup B$) $$
+- P($A \cup B$) = P(A) + P(B) - P($A \bigcap B$)
+P($A \bigcap B$) = P(A)*P($B|A$)
+
+  
+P($B|A$) = $\frac{A \bigcap B}{P(A)}$
 # Inter Quartile Range
 
 $$Inter Quartile Range = Q_3 - Q_1$$
@@ -51,3 +59,24 @@ This correlation coefficioent removes the units.
 # Probability
 
 $$ probability =  \frac{number of ocurrences of the event}{number total of events} $$
+
+## Rules for computing probability
+1. Addition Rule - Mutually Exclusive Events
+P($A \cup B$) = P(A) + P(B)
+
+2. Addition Rule - Events are not Mutually Exclusive
+P($A \cup B$) = P(A) + P(B) - P($A \bigcap B$)
+
+3. Multiplication Rule - Independent Events
+P($A \bigcap B$) = P(A)*P(B)
+
+4. Multiplication Rule - Events are not independent
+P($A \bigcap B$) = P(A)*P($B|A$)
+
+So, if they are independent:
+P($B|A$) = P(B)
+
+5. Conditional Probability:
+P($B|A$) = $\frac{A \bigcap B}{P(A)}$
+
+6. 
