@@ -48,3 +48,6 @@ In a boxplot, the outliers are calculated as those outside the range of 1.5*IQR 
 
 This correlation coefficioent removes the units.
 
+# Probability
+
+$$ \frac{# of ocurrences of the event}{# total of events} $$
