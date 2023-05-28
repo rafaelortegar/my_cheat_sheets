@@ -33,6 +33,9 @@ for when data is not bel shaped
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/fc6f2da0-91ae-4148-b7b0-8809113459ca)
 
+
+In a boxplot, the outliers are calculated as those outside the range of 1.5*IQR from the quartiles
+
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/df29a503-f9bc-4d9d-a2a5-accdd6945337)
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/90081b9a-5576-45fe-947d-0ab48aee945e)
