@@ -15,3 +15,6 @@ $$ Coefficient of Variation = \frac{\sigma}{\mu} $$
 
 # The empirical rule
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ed88989c-0746-4f3e-819b-9bc26ce5a87b)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5a35e47e-55a1-4b49-aa9d-86971e2713a9)
+
