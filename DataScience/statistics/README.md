@@ -154,3 +154,34 @@ The mean of the sampling distribution of $\bar{x}% is $\mu$ and the standard dev
 
 If n (>30) samples are drawn from a population that has a mean μ and a standard deviation σ. The sampling distribution will follow a normal distribution with:
 Mean: μ; Standard Deviation: σ / √n
+
+# Estimation:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9b73beac-181b-4168-85c0-caee06e64241)
+
+* Point estimation:
+
+Is a single value of a statistic.
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7d86ef1b-6774-465c-8cfc-9efd6572e20c)
+
+
+* Interval Estimation:
+Provides an interval, or a range of values, which is expected to cover the true unknown parameter.
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/418954d7-d769-4bb9-a007-37ae9d8ae96e)
+
+The upper and lower limits of the interval are determined using the distribution  of the sample mean and a multiplier, which specifies the "confidence".
+
+The confidence interval has the following interpretation:
+The interpretation of a 95% confidence interval is that, if the process is repeated a large number of times, then the intervals so constructed, will contain the true population parameter 95% of times.
+
+A 100% confidence interval will include all possible values. Hence, there will not be any insight to the problem.
+
+# Hypothesis testing
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1ace5058-e9eb-4519-afb8-7c6ac2060b7d)
+
+Often we are interested in a population parameter
+a hypothesis is a conjecture about a population parameter
+The objective of the hypothesis testing is to SET a value for the parameters and perform statistical TEST to see whether that value is tenable in the light of the evidence gathered from the sample.
+
+
+
