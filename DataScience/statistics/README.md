@@ -209,6 +209,61 @@ The objective of the hypothesis testing is to SET a value for the parameters and
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/64f43997-534f-4670-95db-34d484944807)
 
 
+## Hypothesis testing FAQS
+1. How to set the value of k for binom.pmf() and binom.cdf() functions?
+
+Tags: #pmf #cdf #probability
+
+If we want to calculate the probability that the random variable X is exactly equal to x, then binom.pmf(k=x,...) will be used.
+
+If we want to calculate the probability that the random variable X is less than or equal to x, then binom.cdf(k=x,...) will be used.
+
+If we want to calculate the probability that the random variable X is greater than or equal to x, then 1-binom.cdf(k=x-1,...) will be used.
+
+ 
+
+2. What are the Empirical rules of a normal distribution?
+
+Tags: #normal distribution #standard deviations #empirical rule
+
+The empirical rule states that 68% of the observations of a normal distribution fall within the first standard deviation from the mean (µ ± σ), 95% within the first two standard deviations from the mean (µ ± 2σ), and 99.7% within the first three standard deviations from the mean (µ ± 3σ).
+
+Let’s assume pizza delivery timings in a restaurant are known to be normally distributed.
+
+µ(mean delivery time): 30 minutes
+
+σ(standard deviation) : 5 minutes
+
+Using the Empirical Rule, we can determine that,
+
+68% of the delivery times are between 25-35 minutes (30 ± 5)
+
+95% of the delivery times are between 20-40 minutes (30 ± 2x5)
+
+99.7% of the delivery times are between 15-45 minutes (30 ±3x5)
+
+ 
+
+3. What is the degree of freedom?
+
+Tags: #estimate #observations
+
+The Degree of freedom of an estimate is the number of independent pieces of information that went into calculating the estimate. Let's understand with an example. Suppose there are 10 observations, and we have an estimate of the sum of those 10 observations. Now, if 9 of the ten observations are known to us, the 10th one can be calculated by subtracting the sum of 9 observations from the estimate of the sum of all observations. This way, if 9 of the observations are known to us, then the one left out observation is redundant. So, we say that the degrees of freedom for the estimate of the sum is 10 - 1 = 9.
+
+This applies universally to all other estimates as well. So, in general terminology for n observations, the degree of freedom for an estimate of these n observations is k = n-1.
+
+ 
+
+4. What are the functions used in Statistical Analysis from the Scipy Stats library to calculate probabilities in a normal distribution?
+
+Tags: #pdf #cdf #ppf
+
+pdf(x, loc=0, scale=1) - Probability density function.
+
+cdf(x, loc=0, scale=1) - Cumulative distribution function.
+
+ppf(q, loc=0, scale=1) - Percent point function (inverse of cdf - percentiles).
+
 
 
 
