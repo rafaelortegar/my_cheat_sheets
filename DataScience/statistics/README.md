@@ -183,5 +183,33 @@ Often we are interested in a population parameter
 a hypothesis is a conjecture about a population parameter
 The objective of the hypothesis testing is to SET a value for the parameters and perform statistical TEST to see whether that value is tenable in the light of the evidence gathered from the sample.
 
+## Stating the hypothesis
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b48657e9-0cc2-442e-87ca-5797b6a7fe1a)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4baf5451-2484-44cd-8fed-7060d6325f7f)
+
+## Type of errors:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/159aaa0e-5c75-4ca4-aac7-87da5c910e94)
+
+## Hypothesis testing template
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a402c79b-c563-4dd9-806d-f4113928fff7)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5b7cb502-50bc-4842-9753-8573c696632e)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/decf9b35-9903-4a69-a2db-bb9bd84a5f66)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a63f39d1-bbe0-40f8-9479-0177f1385632)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c2b0aa22-5fe4-4827-8650-fadd5e5e74c5)
+
+
+## One tailed vs two tailed tests
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/bdd51b4b-56c6-4490-8bdd-7fdb44ae9406)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/64f43997-534f-4670-95db-34d484944807)
+
+
+
+
 
 
