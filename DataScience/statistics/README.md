@@ -266,5 +266,10 @@ ppf(q, loc=0, scale=1) - Percent point function (inverse of cdf - percentiles).
 
 
 
+# Protection levels on hypothesis testing:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/abc500b8-5d58-4e70-808b-96cd8bb03b7b)
+$FDR<=10%$
 
 
+$FWER<=5%$
+we want to control the probability that 
