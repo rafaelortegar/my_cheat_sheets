@@ -324,3 +324,21 @@ When working with networks it is important to tell the program that we have a sp
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9ec42523-7015-4f56-9e04-4e9dcd10bbbd)
 
 for knowing who is friends with who, we can do $A^{t}A$
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/279cae63-1cfd-4133-abf2-c182834aa896)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ea44ec7d-9b27-4af2-a435-14fe7e03fb5a)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cf29f9a7-d0af-4972-9698-b4828319f5cf)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/232af3c5-98cc-45e5-8a4e-3c0353e11cba)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a7d7ec63-3d87-4aae-95cb-d2ee9dd9c31b)
+
+The diameter is about how connected is a network
+we want to know the shortest path between 2 nodes.
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cf4c54c5-efc5-4c19-b3ea-17335bf83b6d)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5c74cead-2823-464f-beca-8665672b5011)
+
