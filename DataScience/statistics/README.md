@@ -342,3 +342,30 @@ we want to know the shortest path between 2 nodes.
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5c74cead-2823-464f-beca-8665672b5011)
 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e0e118be-d468-4ee7-a026-d65ef4b61341)
+
+## Find important nodes in a network
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3d732cb8-586c-43a7-9f9d-5d46267581b6)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c98bf739-5cf5-4b0d-b90c-78f3759e11cd)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c8e483a8-029c-4949-a808-767ae81f1f6e)
+
+# Clustering
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/892a963a-7ac1-42b1-a5eb-2d14ada058b4)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/68a59c88-67cc-4dad-bf5f-6183f86e4f7b)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f3e9ffd6-5d8d-4b32-bb86-433fec938e5c)
+k-means tries to minimize the distance between elements 
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1fa44ef3-65ac-4ba5-98a7-e60230b49e42)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c8e4801f-9f8b-4d63-a512-fd6ca4b5c464)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/0e22ff24-a6b5-4843-b6b5-99786429b0ea)
+
+
+
+
+
