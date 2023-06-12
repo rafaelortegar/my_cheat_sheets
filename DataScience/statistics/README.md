@@ -269,7 +269,58 @@ ppf(q, loc=0, scale=1) - Percent point function (inverse of cdf - percentiles).
 # Protection levels on hypothesis testing:
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/abc500b8-5d58-4e70-808b-96cd8bb03b7b)
 $FDR<=10%$
-
+it only looks at the tests that come back to be significant
 
 $FWER<=5%$
-we want to control the probability that 
+we want to control the probability that any one of this tests comes out with false positives
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/27c77323-8df5-476d-b6d8-6d85d9a8484a)
+the bonferroni ones are for FWER
+benjamini is for FDR
+
+bonferroni: if you do a hndred of tests, bonferroni correction tries to correct for not having too much false positives.
+
+# Visualization of big datasets:
+2 different approaches:
+* PCA: projection that spreads data as much as possible
+* Stochastic Neighbor Embedding: non linear embedding that tries to keep close-by points close.
+
+## PCA:
+how to find the principal components?
+1. Maximize projection variance
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a5d9fc49-94b8-4923-ac4c-ab4c6fb38685)
+
+
+2. Minimize projection residuals
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d47a8db6-742c-4aba-96b1-06f9942566a0)
+
+3. Spectral decomposition
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f32ca501-7f96-4fd6-8b8b-011646419159)
+Proncipal components are eigenvectors corresponding to the variables on the dataset
+Eigenvector: vector of the size of the number of variables. the largest shows us the direction where the data varies the most.
+Eigenvalue: 
+
+# Covariance vs correlation (to scale or not to scale)
+* we should use correlation if different units are compared.
+* Using covariance will find the variable with largest spread as 1. PC. we should use covariance matrix when we have the same units.
+
+## Stochastic neighbor embedding (tSNE)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/693d394c-bae4-4f68-bbb6-8b074559cdb9)
+the points that are close should remain close
+
+i care about small distances but i dont care about big distances.
+
+t stands for the t distribution
+
+# Networks
+A network (or graph) $G$ is a collection of nodes (or vertices) $V$ connected by links (or edges) $E$. The network is denoted by $G = (V,E)$
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/28e4cb71-e672-4d1e-a00d-420a1157d80f)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cac20882-1d79-495b-9d49-59fd062d4316)
+
+When working with networks it is important to tell the program that we have a sparse matrix.
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9ec42523-7015-4f56-9e04-4e9dcd10bbbd)
+
+for knowing who is friends with who, we can do $A^{t}A$
