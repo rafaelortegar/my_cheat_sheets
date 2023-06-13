@@ -280,6 +280,9 @@ benjamini is for FDR
 
 bonferroni: if you do a hndred of tests, bonferroni correction tries to correct for not having too much false positives.
 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/97bc3aae-54f0-4cd3-b518-e28035e09bf4)
+
+
 # Visualization of big datasets:
 2 different approaches:
 * PCA: projection that spreads data as much as possible
@@ -364,7 +367,35 @@ k-means tries to minimize the distance between elements
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c8e4801f-9f8b-4d63-a512-fd6ca4b5c464)
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/0e22ff24-a6b5-4843-b6b5-99786429b0ea)
+with Gaussian mixture models it is possible to have a curve that is minimized and tells the number of clusters.
+the cons is that it uses a lot of computation time.
 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/16cc63b4-5450-4af1-894a-1ac1d5946585)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/6aebff61-b1c7-4f5a-a210-04a828a97cc0)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5dc12795-5024-44c1-9c25-a9110f31581d)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/19870f8f-0287-4ba6-9d29-0e782bc6fbc9)
+single linkage : is good with long elongated clusters
+complete linkage: is good at small and badly separated clusters
+average linkage: is good at identifying large well separated clusters
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7cc569b7-30aa-4ffb-8c2d-7a307a7f827c)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/bd35df26-933f-41b8-803b-ae57d9da6988)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/037e27fc-799b-4a7d-b886-dc5bc5479a03)
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d5e75735-7c3e-47e3-a9fb-3c735be51643)
+
+
+# Divisive and agglomerative algorithms
+we want to separate the network and find comunities on it.
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d3a5ac71-de5c-4cde-b122-ff5440aedb7e)
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/47be691b-63cc-4bfe-bd2f-335b747872dc)
 
 
 
