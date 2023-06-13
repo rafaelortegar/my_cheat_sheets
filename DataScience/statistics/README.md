@@ -284,6 +284,16 @@ bonferroni: if you do a hndred of tests, bonferroni correction tries to correct 
 
 
 # Visualization of big datasets:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e47fe5c8-d61e-45cc-90df-c605f951304e)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/30e6447d-84b5-4af4-a959-886342742be2)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d240c467-bf49-46d3-8b92-c222d28086d5)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3bb96426-fcd2-459f-9bd4-064d4c3b471c)
+
+
+
 2 different approaches:
 * PCA: projection that spreads data as much as possible
 * Stochastic Neighbor Embedding: non linear embedding that tries to keep close-by points close.
@@ -316,6 +326,9 @@ i care about small distances but i dont care about big distances.
 t stands for the t distribution
 
 # Networks
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/72f41c36-3b93-4b0e-87dc-9f3412a3024c)
+
+
 A network (or graph) $G$ is a collection of nodes (or vertices) $V$ connected by links (or edges) $E$. The network is denoted by $G = (V,E)$
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/28e4cb71-e672-4d1e-a00d-420a1157d80f)
@@ -323,6 +336,8 @@ A network (or graph) $G$ is a collection of nodes (or vertices) $V$ connected by
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cac20882-1d79-495b-9d49-59fd062d4316)
 
 When working with networks it is important to tell the program that we have a sparse matrix.
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d50f5460-a15d-4f0f-9a97-1b8a86917918)
+
 
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9ec42523-7015-4f56-9e04-4e9dcd10bbbd)
 
@@ -398,5 +413,11 @@ we want to separate the network and find comunities on it.
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/47be691b-63cc-4bfe-bd2f-335b747872dc)
 
 
+
+
+
+
+## Centrality measures
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7af3778e-1f09-4b59-844e-676778d3e782)
 
 
