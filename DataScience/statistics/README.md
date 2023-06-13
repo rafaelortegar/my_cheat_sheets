@@ -421,3 +421,29 @@ we want to separate the network and find comunities on it.
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7af3778e-1f09-4b59-844e-676778d3e782)
 
 
+
+# clustering
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/15ea68d1-19ff-4a0e-8e21-f9ef353d61e5)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ef98f722-c064-4274-92c2-4d29bb4b98b5)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cf61487d-d984-433d-bd18-ad77d19c4268)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f546bd57-3777-446b-a24e-42f3e62a5afd)
+
+### Hierarchical clustering
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/df86c15d-5a1c-4528-9f26-3ebbd546547f)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/333013a4-cbf2-4c4c-9f1b-bf8b3029ffe9)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7d7dedd6-b466-4e6d-8f33-584a6264b0ba)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f4f23b98-d622-4533-99e7-534f41425eaa)
+
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f5a71ba2-6cbb-411a-8f30-1632f79d58fa)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1f0f20ae-bd25-45e1-ac78-33645c990864)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/fb05b34e-f6be-4745-a860-fd7e47fc31f2)
+
+
+
