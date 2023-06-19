@@ -219,11 +219,23 @@ of false discovery.
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d968e1a9-27a1-433a-8c56-c8c32db99d09)
 The confidence band is about the blue line
 
+# Linear Model
 
 
+## What can go wrong
+- Multicollinearity
+- Latent Variables
+## Using nonlinear features of the data
 
+## Overffitting and regularization
+- Ridge Regression
+- Sparse Regression and Lasso
 
+## Performance assessment, testing and validation
+- Training vs Testing
+- Cross Validation
 
+- Bootstrap
 
 
 
