@@ -220,10 +220,16 @@ of false discovery.
 The confidence band is about the blue line
 
 # Linear Model
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7b6492a5-9474-4a1b-a7a2-99d043c91b3d)
+
 
 
 ## What can go wrong
 - Multicollinearity
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/15664b94-690e-4711-8873-0efa16901664)
+one way to remove variables is the PCA
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b334c99d-1250-4e67-9870-ffe2c164c83e)
+
 - Latent Variables
 ## Using nonlinear features of the data
 
