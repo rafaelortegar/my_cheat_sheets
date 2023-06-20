@@ -230,18 +230,133 @@ The confidence band is about the blue line
 one way to remove variables is the PCA
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b334c99d-1250-4e67-9870-ffe2c164c83e)
 
+algunas variables pueden estar correlacionadas. normalizing the variables is not going to solve the problem
+
+the covariance matrix will be singular.
+
+
 - Latent Variables
+
+  A latent variable is a confounding variable.
+  ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4bae5fc6-d4a3-4c8d-9a06-f16d0837f69d)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/13c5119e-cfff-428b-ba10-69507ceaab1a)
+
+Simpson paradox: ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5a8618a2-fe11-4164-a85a-a7a603951a05)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1171c906-1ea1-4a99-a6d0-5262ab73d86f)
+
+Mitigation of Latent variables:
+- Add more variables
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9dfa46c1-ce1a-4541-ab46-49547936514c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/748e6bf6-8d9b-466c-a880-6b5185ed1dca)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/891d5c4f-3d2a-40f7-85e2-beb169124379)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2960f9b1-4136-4f5d-9662-3099c7783bc2)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a896b182-9147-4e28-936b-25f60b636fef)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/995dfc67-4fb6-4c51-b3c1-6ebdbfc55759)
+
+- 
+- 
+
 ## Using nonlinear features of the data
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c5f6b4e9-eed0-4411-b042-0fe2ea94ad7d)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c017a380-9db4-4f00-949a-93cea4df9a84)
+
+
 
 ## Overffitting and regularization
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/19a90cf9-b329-4125-ae72-3d49ab5bb132)
+
+
+
 - Ridge Regression
+  ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cfbd31bf-4635-4f41-bf6d-0782da781855)
+
 - Sparse Regression and Lasso
 
+  ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4c9218f8-64bb-4afd-b00b-d4eda85b07c1)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9da4dac4-8d01-4f03-bd78-843e3fe729f6)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/771e588e-f66b-4c38-885e-5e6c8499c674)
+
+In PCA you only look at the axis. Lasso looks axis and  Y´s
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/da25506d-2a3e-4180-9727-9f09a5bb5410)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4bf8984a-6eab-4179-983b-c0fb984eb431)
+
+
 ## Performance assessment, testing and validation
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/eced2e3b-2ef2-4a61-ba83-db82ebf6a2c5)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/60d65e62-891d-44c7-8e11-29be92101239)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/21eae3b6-4073-4c96-8e62-14ac7134335c)
+
+
 - Training vs Testing
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b9d72ff8-8a14-4cfc-bd77-753e0050d5cd)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b8cd809b-aec1-4022-91ff-34136224c434)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/6c52d44e-cc9f-4d57-9aff-4c4cedfb99c8)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7789dd25-505a-47e3-ae94-70ce044c7ca9)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/807814b7-6c3f-416b-8b8a-2d99f530b4db)
+
+
+  
 - Cross Validation
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/88a96bb6-e402-47db-87ec-ad9f7f655ae3)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/aa2c60a0-0010-4394-99d7-bdab8e065c1d)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d4a85379-d11e-4422-bae9-6dcb9ef54bfc)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f7198e45-6996-43ed-a405-c2547b1ec1be)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9f602adb-3706-4bee-9704-20266d6e9e0f)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e44f2273-bd7a-4e09-bfcc-7dd27e9b0a28)
+
+Performance on new data points can only be assessed on the test data set.
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/35c4adf1-2880-4575-9aae-3316c1ca4acf)
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/0834f627-df16-44b8-ae3c-d56e8c341caf)
+
+
+
+
 
 - Bootstrap
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4818ef77-3cb7-4cd2-a727-0f88a0ddc002)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/af73b382-93ae-4c8b-b95f-fe2bf53807a6)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/33ed9213-168d-469d-b7ec-9d0c8f56dafc)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/320c49fe-94a1-45e1-b3f7-d2904b57a524)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/fb990b35-90bd-4c74-929b-50c7d098c69d)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/0f5c759f-9566-442a-9472-63b7acfddd04)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/aa1e36f1-86ea-4b36-a1ee-d0600c52c226)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/500e889a-17b0-4079-bd68-8b498b93248b)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1202e7e7-092c-4e81-b276-cd3fe0e97a4c)
+
+
+
 
 
 
