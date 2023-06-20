@@ -359,17 +359,163 @@ Performance on new data points can only be assessed on the test data set.
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/352c648a-5e95-4f23-871a-150694472d64)
 
 
+# Classification
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f37ba665-dff0-4817-842d-56a577515708)
+
+## The general problem
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9210f070-195a-448a-8823-59830d291721)
+
+
+
+- Formulation
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5080519d-d18e-4e96-a3f1-eba7b1f328f7)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d1f8ff72-e114-4d87-bc87-7349ddd3f0da)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b9c5326d-b918-411c-99ac-d054a00674c0)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a48ca17c-0307-4c91-a68b-dc5aa672dd1a)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c781c5e6-662e-4e52-acf1-83c51d20b0d8)
+
+
+ 
+
+- Types of error
+  ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2a348a20-b142-4bd1-9a8e-8a5c4fea7d5b)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/18f87e2d-511a-46dd-a265-055992762d5f)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/42b17bb9-b5e1-46be-8f85-1e074166e42d)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7603db34-fddd-4295-b16f-19d009662e46)
+
+
+## Gaussian - Model-based
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b7d3888e-411f-4d66-9804-9d97ed5e2fc6)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b3667155-77fe-4cc2-8115-d85242aeb7fc)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/02ec5d0d-12c9-427d-8c21-c3a11ec37270)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/212b5838-85ba-4fe4-b1b1-34a0a32c72fa)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cd4de4ab-b74f-45d3-bed6-66933e46bc05)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4645bd23-99cf-491c-a9a6-f5913944c10f)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/47d3b91d-9989-41ec-8662-918076d7a1eb)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9a97f2e3-2eb0-4477-b741-5312f7a702b0)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8959da33-6290-446f-862b-73f86bef878c)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/acdadc6f-1278-48e3-818e-aae5fe487cac)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/dbd0ade4-95d8-41d2-bf86-465ef91c494f)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/286b5691-d168-4d59-98b4-1eab307b9ae4)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/185ee9be-c62b-4f38-870a-618da856a562)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/eaaa9e4d-2353-4df1-a66a-bc53ba9adcb7)
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3adc9423-6d3a-4e63-a64d-86231c018cbc)
+
+
+- Linear discriminant analysis
+- quadratic discriminant analysis
+- 
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d464abe1-6d7d-46db-bf8a-0d972f65d5f8)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7feac8bb-d470-48d2-b903-7ee8ada37524)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/63d68f6f-8e95-4a61-b8d3-0e5f19ac6694)
+
+
+## Regression methods
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/96b0f8a3-c763-4888-bcde-b74df87648c4)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f332be4b-4b82-47ee-9e69-0773b1fdeafa)
+
+
+- logistic regression
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9006c7d3-6d4b-438e-8af9-9c46cc55aa5c)
+
+ ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/23602786-8ed5-4ccf-9980-9b9a2b4affce)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/293e3a96-7616-416f-b2c1-a269d4bf2481)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c504430b-f9bd-475d-8696-04e07fe0bf1b)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4ee6d851-8877-41be-a1d5-44b0bf3a9169)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/09f47ef5-b082-4d46-b284-b6d8f5f9b99a)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c1717735-eb35-4bf8-b5ae-af9ad7908f18)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/574d1683-8638-448b-a9da-5a748851c1e1)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/dd503383-6a35-40f7-934d-59c636efb976)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e7b50385-8218-4aa5-9244-098d5c0bdce9)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e9109e97-a2a8-4c08-bc66-a379b0c2fd1f)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/12438e64-3f2a-4dfc-bb6b-188667c69ce1)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f4da011f-fbcd-4235-9d8f-4962532a9ab5)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ef94cf22-c0fa-4a13-b505-fcf8ba45cc72)
+
+- Training and validation
+
+## Other approaches
+- Nearest-neighbor methods
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e6655db3-d2ac-48dc-b1e1-49613dddd8fb)
+
+No training required
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/100f3920-b22e-424f-88f8-a5dff8fcca81)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9bb51d38-953a-4079-b229-4e1328390804)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b739440e-79d3-4956-a58e-f166a0b4d373)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7b0b27fb-faae-4303-8103-2d373bbf4770)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/dac8b349-c16b-4060-9b67-8b0ff5615048)
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/61b41b87-ece7-44ff-82f7-3b691c12f471)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a428c180-b235-4b2a-8fa3-770421865a77)
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/85442249-8c99-42eb-b784-3db77a879b97)
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/92d0c582-6d16-4267-a884-e8e07f0886cb)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c9d0fe13-6710-442a-a281-404f3254ffd7)
+
+
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/83c804e1-3cf4-49fb-89cb-3f4aa9b11329)
 
 
 
 
 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f1d0047a-7c75-4f96-82c1-541b71154c29)
 
 
 
-
-
-
-
+![Uploading image.png…]()
 
 
