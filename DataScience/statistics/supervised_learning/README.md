@@ -356,6 +356,8 @@ Performance on new data points can only be assessed on the test data set.
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1202e7e7-092c-4e81-b276-cd3fe0e97a4c)
 
 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/352c648a-5e95-4f23-871a-150694472d64)
+
 
 
 
