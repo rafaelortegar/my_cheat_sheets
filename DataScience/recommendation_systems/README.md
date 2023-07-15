@@ -56,7 +56,16 @@ información del número de veces, relación entre users y negocios
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/654a36ed-167b-479d-8137-a2f0f2cc73b0)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1454b6fc-624b-4001-8a57-0b5498eeae72)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9035a29d-2cf6-4dd2-94c4-57ff37c89f78)
-![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cb436f3b-f77a-4fbe-ad18-6ac95aadaca1)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/677d490c-b0fd-4e75-b90b-d37f12873b27)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/05bd5fd8-6c38-4c51-92fb-9086b9c3277c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/423e76a7-5720-4cdb-8b49-6326a0a7b39c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2c664eeb-81cd-4e51-a072-98c3f65cbb96)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d3e16f0e-f980-497a-9695-d88da7cdea0f)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e95dd408-d494-425f-9750-92373ee2be4d)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/af488900-8e00-406f-ac68-84b62b84bb42)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/d9f96270-4846-4477-b45b-5543fd2453e6)
+
 
 
 
