@@ -289,7 +289,45 @@ where E is the error and we expect it to have an expected value of 0
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/435172c6-f625-43f7-a4d2-ab88a9c8c17f)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3eb19d26-5461-41c1-b042-9afe675945cd)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b947ff4c-1e19-4827-b4bb-3e4eec93ff15)
-
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/11090825-f082-4a99-8b93-9f7fab322b22)
+special case:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/89bc6ee0-493d-4244-b28b-15fcec36f0a4)
+it is a normal time series
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ddedede5-b628-4f88-b0be-f3e4a18680ad)
+forecast the future and fill the missin values
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ba77e438-75a3-4110-9b16-d3330e12dff4)
+we divide on 3 blocks:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4bb9b1d2-1f78-4e67-b3c4-b5854cfd0332)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ca4dd040-8146-47ed-a4f0-9a07c7d6fbe9)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8abb5db5-9da2-4325-922e-e2c0f52ba00b)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c27edab3-ab9b-491c-b953-aa862ca8aeab)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/866a995c-717a-4fcf-967a-23789e9537b3)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/11651e6d-12ee-4df1-a4a1-61e7833622f0)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f37d16ba-50e0-48b1-b784-3d84af6ff449)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/0856f0de-97e4-4dbf-aed6-93a584627b4c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/74e9d8bd-e62b-4a78-a22d-717d4110da30)
+# Everything Together
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/20b0355c-0688-4c8a-831c-51b7a3452f45)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/6266c452-e1e1-4cb1-b7cc-4328d37fd09d)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/944cb395-e0f7-4832-9f91-552df9a6d960)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c49c9333-c8c4-40c5-ad75-d426583ce8c7)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/4ba90d6d-10ec-4b19-a265-344914a396f2)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a7111f7c-fea8-4637-a9a2-a4e727ba245e)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5aa986b4-db35-48f4-94c0-efc578eddf7b)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/680ac24e-497b-4d4d-a744-0fcee983492b)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/cbec4921-4da4-4d9d-a1fe-14fa5e7f27d2)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/682c084c-b7f4-4837-b42f-10fa64f2f28f)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e7785e6b-e638-4e07-ad03-7667627f9d62)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/78b07fbd-c6e5-46e6-8511-9dae96f8d449)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/12312dba-d163-4360-b0d7-6dbf4bc1dd01)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/fe3d64fd-ebb9-4bc6-80c1-a10f4ffffac0)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3c44648d-950b-4164-9d25-5324305d9ae2)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/63e58a69-5800-42a6-82c4-023ba4e5cb9c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a4aa7723-4215-4855-898f-1b7404faf50f)
+stack also for each of the K´s 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/08d88c41-0ed6-44a6-a818-387ccb1a9242)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/00917207-5d77-4e8d-841c-1596e3d491a8)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/75ee9f95-7343-45db-9d52-9f35b5f5cdd9)
 
 
 
