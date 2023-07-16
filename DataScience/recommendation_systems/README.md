@@ -183,6 +183,153 @@ SNN = Synthetic Nearest Neighbors
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a121857c-7a60-4c33-af78-fb986f3ca115)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/372198d8-9a94-4137-83ee-441aca80382d)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/739ef370-27c8-4e62-9593-360e37214543)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/134b1bc3-0120-4a0a-929f-22283ba6bbaf)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/70cd411f-0176-4536-bd8c-40c08d321582)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1edd2846-35a3-48ab-8071-21e2012a6949)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c5e1b14a-ca8a-4016-aea7-b9bb3be6678f)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/9f838720-3e89-42ba-979f-b9c7232d9b11)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8d0128a3-0c38-4226-b0a1-5fc6d510364c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b89b9d58-5ae0-432a-a562-934ea3b46777)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e027de06-2d56-4e96-99d1-8fc32a781e6a)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5a5698e8-d1af-4179-bb3f-2d8e7511be39)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2f66b3c9-f2d4-4b0c-b4ac-e2d402fe2df3)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c9aaee34-01cb-4245-a18e-d106feea67f7)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8dbc4090-8d02-4511-8e87-cecbab73cbd6)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/afdf588d-def8-4ffb-b0d3-e8cd93e0dc86)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/83da241e-8d50-4041-9ab1-e707a236bfaf)
+first, we get the singular values:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/6ebfbe01-db87-42a4-8206-4f88e79a029c)
+Then we do truncation:
+first, we define our threshold, lets say 0.9
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c51ee7cd-ee6c-4bc6-993e-d4000b9c50b4)
+Then we find R so that:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/544404c3-582d-4746-aa2d-4d99933d9a60)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1ca62f88-8437-4050-8c32-09e832574c73)
+Then we do PCA to get dimensional representations:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7935dad4-741b-4e1c-b230-e3ed36d0e45f)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a068c6dc-cd42-4f9c-ae32-378149a35720)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b8a3ca8b-49da-4e78-a2d0-a0e811f611cf)
+For SVD, we did 1/p:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/52016192-dc49-43e2-87a5-9c00b5aff8ae)
+which is the fraction of observed data in matrix.
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7c70d8b2-bca0-4e50-8560-c658cc051844)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c226029f-04b5-403e-bc75-422a27df22a6)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3f835037-c50d-4b5a-adb1-ee451c424802)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5691fcf8-ba18-4c25-9749-7108e8b47adb)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a3e042af-e6ed-4ab7-a431-3a7e932b15d2)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/6122ebd3-189d-4657-833a-ec3705ca9d36)
+I give you the next matrix:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/16192c90-4830-45eb-be21-7d6b13b92623)
+can you find the best rank approximation of this problem?
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/952e6136-1b31-4fc7-bbd3-728f57c30462)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3803ee10-ea08-4b68-95d4-f428703e7653)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/7a3753e7-9869-4f53-89a5-c195664c48ef)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/01814504-c3ac-4935-b67a-9267cf3356a2)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2149c8ee-64f7-4e55-a2b4-ca9840771266)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/0404008f-e4cf-4a3e-9ac7-176f4dcad0a3)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/91e76549-6e92-4392-bdb7-12317c17a7ca)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/49d1970b-5a7b-4dda-b603-91bd81964e86)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/624724fd-4c45-46b9-808f-b13592dc5f71)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/c3527744-d165-4989-94ce-e0b882792dd6)
+purple is what i want to find, blue is what i have observed:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/6480e0dd-04a3-4757-b885-690710099388)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/46c7cc43-d8f2-46b6-9c02-2a45cf01dc9d)
+I I know U, it is like a linear regression:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2427d053-c939-4957-8bdf-e0f80f2fdfb9)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f6b03312-bbcd-4dee-a720-f1184b743a87)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f2baf8c4-8d43-42f5-a5a3-70262bc1e235)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/11dd72d8-6026-48ea-bac5-a8a5d49b0179)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b28a4670-cd1d-4003-b48e-723d96411dc7)
+example:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a0ed2293-ac36-4a53-814d-90e2132eefe6)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8a5a3fce-fc43-419b-be63-e3bba7e0ffae)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/22dd4db8-13bf-4dc2-9cd4-987e49ca6944)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/1336fff0-4202-425a-98d2-b03c727cc0f2)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/93a03f7c-7542-45c0-bbb4-4ae979ccf202)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ed057557-e5de-4660-9c3f-3250f8e109a7)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/df1bfcf2-0c7a-4183-b2a8-598f011955b2)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5a1e908f-68a8-4a57-8ff5-0fa9825da6fd)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/20967163-3c17-43bc-bf51-bd235c490568)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/6b49beaa-630b-4c2f-9470-d5983763e052)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/e8865b98-c1a0-49e2-b152-c687270e7fde)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2e1b6a96-162e-4998-aa5b-876dc3c90df3)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a054d3e7-6c1d-4d84-bd25-2f4a5f946939)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/5a7a2615-2570-4c05-846e-93ab47485815)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/249fe294-d4b3-403e-85f1-b3b7c9341961)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/11eb2638-2770-4bb2-8d99-28e3f60792a7)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b28fdd8f-a30b-4af7-a42b-09b047fada61)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/792bbf92-f455-494c-8eb0-609ee1fe0363)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/83d8770b-936c-4d87-a434-57caeed2d758)
+Ui are characteristics of user U
+Vj are characteristics of item j
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/852dc483-65a5-4c80-9649-792ac52ff079)
+we want to find Lij, which is a function of Ui and Vj
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/150e4d27-54be-4e3e-ad9d-69b1de54073b)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/639ba806-8d33-46bd-89e9-f092ace6012d)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/42f98df7-af60-4e36-874e-6150e72d38b5)
+We can see the problem as: 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8de0d8a0-292c-4659-ac7d-b73189487e58)
+where Xi and yi are observed and I want to calculate Alpha and Beta
+I know that the real Yij can be calculated as: 
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/afc74533-be0f-4fac-bb55-da8915867749)
+where E is the error and we expect it to have an expected value of 0
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/ac393298-e9c7-41d5-9938-bcbba7980514)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b7c09ff8-3e6a-4f1d-811a-fb1330dc48e9)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/a9a8ed3e-245d-46cd-8afc-d70e2ca8ae78)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/71374839-cd38-48dc-b57e-e6fa247d55ba)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8aebc0b9-e5c4-43da-8f5b-7488b0d322e0)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/8293771f-5519-4d85-ad6f-c873d0ad95c0)
+
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/85f6f539-6df8-4c2f-9ed8-0e447827829c)
+
+
+
+# Now solving for time series:
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/435172c6-f625-43f7-a4d2-ab88a9c8c17f)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3eb19d26-5461-41c1-b042-9afe675945cd)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b947ff4c-1e19-4827-b4bb-3e4eec93ff15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
