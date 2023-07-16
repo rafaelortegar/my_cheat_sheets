@@ -328,6 +328,11 @@ stack also for each of the K´s
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/08d88c41-0ed6-44a6-a818-387ccb1a9242)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/00917207-5d77-4e8d-841c-1596e3d491a8)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/75ee9f95-7343-45db-9d52-9f35b5f5cdd9)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/f748fe19-dcd0-49c6-a05e-cd7dcfac579c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2c0a801f-0526-4d52-a654-e90bd185891c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/fd2f2339-02d4-4576-9c42-6f8375c74a5d)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/36377970-781b-4327-b411-bd1bcfb4197c)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b2608998-cf8f-4932-8b57-c5d310a33064)
 
 
 
