@@ -333,6 +333,8 @@ stack also for each of the K´s
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/fd2f2339-02d4-4576-9c42-6f8375c74a5d)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/36377970-781b-4327-b411-bd1bcfb4197c)
 ![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/b2608998-cf8f-4932-8b57-c5d310a33064)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/2667e3d5-3e14-4286-906a-fc294c6a38a7)
+![image](https://github.com/rafaelortegar/my_cheat_sheets/assets/51694410/3a380472-986a-4ce0-9fed-8810a576d42a)
 
 
 
