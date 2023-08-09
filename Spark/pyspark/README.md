@@ -1,3 +1,4 @@
+* [add days to date column](https://stackoverflow.com/questions/50703284/how-to-add-ten-days-to-existing-date-column-in-pyspark)
 * [array column contains](https://sparkbyexamples.com/spark/spark-array_contains-example/)
 * [create column grouping with map type](https://stackoverflow.com/questions/45532183/create-dataframe-grouping-columns-in-map-type)
 * [PySpark – max()](https://linuxhint.com/max-pyspark/)
