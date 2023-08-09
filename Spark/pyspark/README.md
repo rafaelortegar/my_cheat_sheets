@@ -1,3 +1,4 @@
+* [array column contains](https://sparkbyexamples.com/spark/spark-array_contains-example/)
 * [create column grouping with map type](https://stackoverflow.com/questions/45532183/create-dataframe-grouping-columns-in-map-type)
 * [PySpark – max()](https://linuxhint.com/max-pyspark/)
 * [Best way to get the max value in a Spark dataframe column](https://intellipaat.com/community/4448/best-way-to-get-the-max-value-in-a-spark-dataframe-column)
