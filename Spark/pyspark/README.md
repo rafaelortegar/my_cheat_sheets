@@ -439,6 +439,16 @@ df_joined = (
 )
 ```
 
+from array column to rows
+from [sparkbyexamples](missing_reference)
+```python
+def list_column_to_row(df, column: str):
+  """Transforms a column of list to rows"""
+  columns = [x for x in df.columns if x != column]
+  df = df.select(columns + [F.explode(column).alias(column)])
+  return df
+```
+
 Sort data Frame
 from [sparkbyexamples](https://sparkbyexamples.com/pyspark/pyspark-orderby-and-sort-explained/)
 ```python
