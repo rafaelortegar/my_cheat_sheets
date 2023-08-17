@@ -34,3 +34,5 @@ dentro del environment correspondiente.
 * [How do i take the sigmoid of all the records of a column in a dataset in python?](https://stackoverflow.com/questions/68403954/how-do-i-take-the-sigmoid-of-all-the-records-of-a-column-in-a-dataset-in-python)
 * [Pandas DataFrame.fillna() to replace Null values in dataframe](https://www.geeksforgeeks.org/python-pandas-dataframe-fillna-to-replace-null-values-in-dataframe/)
 * [Replace all the NaN values with Zero’s in a column of a Pandas dataframe](https://www.geeksforgeeks.org/replace-all-the-nan-values-with-zeros-in-a-column-of-a-pandas-dataframe/)
+* [Apply Thousand Separator (and Other Formatting) to Pandas Dataframe](https://towardsdatascience.com/apply-thousand-separator-and-other-formatting-to-pandas-dataframe-45f2f4c7ab01)
+* [Format number with comma as thousands separator in Python](https://bobbyhadz.com/blog/python-format-number-thousands-separator-2-decimals)
