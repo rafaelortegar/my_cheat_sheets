@@ -1,3 +1,4 @@
+* [Remove duplicates from PySpark array column](https://stackoverflow.com/questions/54185710/remove-duplicates-from-pyspark-array-column)
 * [Statistical and Mathematical Functions with DataFrames in Apache Spark](https://www.databricks.com/blog/2015/06/02/statistical-and-mathematical-functions-with-dataframes-in-spark.html)
 * [Advanced Pyspark for Exploratory Data Analysis](https://www.kaggle.com/code/tientd95/advanced-pyspark-for-exploratory-data-analysis)
 * [class pyspark.ml.stat.Summarizer](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.stat.Summarizer.html) 
