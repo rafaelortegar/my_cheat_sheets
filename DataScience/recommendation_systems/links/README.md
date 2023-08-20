@@ -27,6 +27,8 @@
 * [Addressing Interpretability and Cold-Start in Matrix Factorization for Recommender Systems](https://ieeexplore.ieee.org/abstract/document/8364604)
 * [Service recommendation based on quotient space granularity analysis and covering algorithm on Spark](https://www.sciencedirect.com/science/article/abs/pii/S0950705118300662)
 * [Deep Learning Based Recommendation Algorithm in Online Medical Platform](https://link.springer.com/chapter/10.1007/978-3-030-00563-4_4)
+* [16. ALS: Stock Portfolio Recommendations](https://runawayhorse001.github.io/LearningApacheSpark/als.html)
+* [ALTERNATING LEAST SQUARES (ALS) SPARK ML](https://www.elenacuoco.com/2016/12/22/alternating-least-squares-als-spark-ml/)
 
 
 
@@ -35,6 +37,10 @@
 * [MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
 * [Netflix Update: Try This at Home](https://sifter.org/~simon/journal/20061211.html)
 * [Matrix factorization and neighbor based algorithms for the netflix prize problem](https://www.researchgate.net/publication/221141015_Matrix_factorization_and_neighbor_based_algorithms_for_the_netflix_prize_problem)
+* [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
+* [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)
+* [Wide and Deep Learning: Better Together with TensorFlow](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
+* [Entrena un modelo con algoritmo amplio y profundo](https://cloud.google.com/vertex-ai/docs/tabular-data/tabular-workflows/wide-and-deep-train?hl=es-419)
 * [Matrix Factorization Techniques for Recommender Systems](https://ieeexplore.ieee.org/document/5197422)
 * [This Psychologist Might Outsmart the Math Brains Competing for the Netflix Prize](https://www.wired.com/2008/02/mf-netflix/)
 * [$1 Million Netflix Prize So Close, They Can Taste It](https://www.wired.com/2009/06/1-million-netflix-prize-so-close-they-can-taste-it/)
