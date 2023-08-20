@@ -1,4 +1,5 @@
 # Parte del repositorio que tratará sobre graficar en python
+* [Formatting y-axis matplotlib with thousands separator and font size](https://stackoverflow.com/questions/51734218/formatting-y-axis-matplotlib-with-thousands-separator-and-font-size)
 * [Python Scatter Plot – How to visualize relationship between two numeric features](https://www.machinelearningplus.com/plots/python-scatter-plot/)
 * Por ejemplo, para [guardar graficas](https://www.programiz.com/python-programming/datetime/strftime) con seaborn
 * [How to Adjust the Figure Size of a Seaborn Plot](https://www.statology.org/seaborn-figure-size/)
