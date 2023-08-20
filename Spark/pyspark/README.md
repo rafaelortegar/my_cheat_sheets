@@ -1,3 +1,4 @@
+* [Explain Kurtosis, Min, Max, And Mean Aggregate Functions In PySpark](https://www.projectpro.io/recipes/explain-kurtosis-min-max-and-mean-aggregate-functions-pyspark-databricks#:~:text=The%20PySpark%20mean%20function%20calculates,the%20total%20number%20of%20values.)
 * [Generators and PySpark](https://www.waitingforcode.com/pyspark/generators-pyspark/read)
 * [Reduce your worries: using ‘reduce’ with PySpark](https://towardsdatascience.com/reduce-your-worries-using-reduce-with-pyspark-642106d6ae50)
 * [PySpark transform() Function with Example](https://sparkbyexamples.com/pyspark/pyspark-transform-function/)
