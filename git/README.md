@@ -1,4 +1,5 @@
 
+* [Git Change Commit Message – How to Edit Commit Messages with Git Amend](https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/)
 * [How to clone a specific branch](https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/)
 * [The 'git fetch' Command](https://www.educative.io/courses/learn-git-hard-way/B8nKyRWlBBN?aid=5082902844932096&utm_source=google&utm_medium=paid&utm_campaign=edpresso_retargeting&utm_term=&utm_campaign=Educative+Branded+-+USA&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=16140952689&hsa_grp=132697905346&hsa_ad=580967352399&hsa_src=g&hsa_tgt=aud-1673486963757:dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KE3Bt7zjspWPXcJOOVleOENyBybjb4RFuYz96Ovoj0w7_z2nuXyKvMaApSoEALw_wcB)
 * [Git MERGE vs REBASE](https://www.youtube.com/watch?v=CRlGDDprdOQ&ab_channel=Academind)
