@@ -1,4 +1,5 @@
 # Parte del repositorio que tratará sobre graficar en python
+* [Python Scatter Plot – How to visualize relationship between two numeric features](https://www.machinelearningplus.com/plots/python-scatter-plot/)
 * Por ejemplo, para [guardar graficas](https://www.programiz.com/python-programming/datetime/strftime) con seaborn
 * [How to Adjust the Figure Size of a Seaborn Plot](https://www.statology.org/seaborn-figure-size/)
 * [Box Plot using Plotly in Python](https://www.geeksforgeeks.org/box-plot-using-plotly-in-python/)
