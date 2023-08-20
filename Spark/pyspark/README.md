@@ -1,3 +1,7 @@
+* [Best Practices](https://spark.apache.org/docs/latest/api/python/user_guide/pandas_on_spark/best_practices.html)
+* [How to Chain Functions in Pyspark with Pipe](https://towardsdatascience.com/how-to-chain-functions-in-pyspark-with-pandas-pipe-1915ed7ebc34)
+* [convert columns of pyspark data frame to lowercase](https://stackoverflow.com/questions/43005744/convert-columns-of-pyspark-data-frame-to-lowercase)
+* [Operations on Multiple Columns at Once](https://haya-toumy.gitbook.io/spark-notes/pyspark/pyspark/operations-on-multiple-columns-at-once)
 * [Add column sum as new column in PySpark dataframe](https://stackoverflow.com/questions/31955309/add-column-sum-as-new-column-in-pyspark-dataframe)
 * [pyspark.sql.DataFrame.approxQuantile](https://api-docs.databricks.com/python/pyspark/latest/pyspark.sql/api/pyspark.sql.DataFrame.approxQuantile.html)
 * [Remove duplicates from PySpark array column](https://stackoverflow.com/questions/54185710/remove-duplicates-from-pyspark-array-column)
