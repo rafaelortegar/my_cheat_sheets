@@ -1,3 +1,8 @@
+* [PySpark StructType & StructField Explained with Examples](https://sparkbyexamples.com/pyspark/pyspark-structtype-and-structfield/)
+* [PySpark Select Nested struct Columns](https://sparkbyexamples.com/pyspark/pyspark-select-nested-struct-columns/)
+* [How to use struct() function in PySpark Azure Databricks?](https://azurelib.com/how-to-use-struct-function-in-pyspark-azure-databricks/)
+* [PySpark ArrayType Column With Examples](https://sparkbyexamples.com/pyspark/pyspark-arraytype-column-with-examples/)
+* [ArrayType Columns](https://mungingdata.com/pyspark/array-arraytype-list/)
 * [add days to date column](https://stackoverflow.com/questions/50703284/how-to-add-ten-days-to-existing-date-column-in-pyspark)
 * [array column contains](https://sparkbyexamples.com/spark/spark-array_contains-example/)
 * [create column grouping with map type](https://stackoverflow.com/questions/45532183/create-dataframe-grouping-columns-in-map-type)
