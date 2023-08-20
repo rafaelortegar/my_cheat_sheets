@@ -1,3 +1,5 @@
+* [Add column sum as new column in PySpark dataframe](https://stackoverflow.com/questions/31955309/add-column-sum-as-new-column-in-pyspark-dataframe)
+* [pyspark.sql.DataFrame.approxQuantile](https://api-docs.databricks.com/python/pyspark/latest/pyspark.sql/api/pyspark.sql.DataFrame.approxQuantile.html)
 * [Remove duplicates from PySpark array column](https://stackoverflow.com/questions/54185710/remove-duplicates-from-pyspark-array-column)
 * [Statistical and Mathematical Functions with DataFrames in Apache Spark](https://www.databricks.com/blog/2015/06/02/statistical-and-mathematical-functions-with-dataframes-in-spark.html)
 * [Advanced Pyspark for Exploratory Data Analysis](https://www.kaggle.com/code/tientd95/advanced-pyspark-for-exploratory-data-analysis)
