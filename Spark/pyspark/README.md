@@ -1,3 +1,6 @@
+* [How do you read an Excel spreadsheet with Databricks](https://community.databricks.com/t5/data-engineering/how-do-you-read-an-excel-spreadsheet-with-databricks/m-p/25994)
+* [Managing Excel Files with Apache Spark for Azure Databricks Implementation](https://www.mssqltips.com/sqlservertip/7553/manage-excel-files-apache-spark-azure-databricks/)
+* [Reading excel file in pyspark (Databricks notebook)](https://mayur-saparia7.medium.com/reading-excel-file-in-pyspark-databricks-notebook-c75a63181548)
 * [Explain Kurtosis, Min, Max, And Mean Aggregate Functions In PySpark](https://www.projectpro.io/recipes/explain-kurtosis-min-max-and-mean-aggregate-functions-pyspark-databricks#:~:text=The%20PySpark%20mean%20function%20calculates,the%20total%20number%20of%20values.)
 * [Generators and PySpark](https://www.waitingforcode.com/pyspark/generators-pyspark/read)
 * [Reduce your worries: using ‘reduce’ with PySpark](https://towardsdatascience.com/reduce-your-worries-using-reduce-with-pyspark-642106d6ae50)
