@@ -54,6 +54,7 @@
 * [Netflix Prize](https://paperswithcode.com/dataset/netflix-prize)
 * [Netflix Recommendations](https://electronics.howstuffworks.com/netflix2.htm)
 * [Como la estrategia de personalización de NETFLIX venció al gigante BLOCKBUSTER](https://www.linkedin.com/pulse/como-la-estrategia-de-personalizaci%C3%B3n-netflix-venci%C3%B3-al-seminario/?originalSubdomain=es)
+* [Trends in Recommendation & Personalization at Netflix](https://www.youtube.com/watch?v=IByC2keY3vo)
 
 
 
