@@ -12,4 +12,6 @@ https://thispointer.com/python-how-to-check-if-an-item-exists-in-list-search-by-
 * [How To add Elements to a List in Python](https://www.digitalocean.com/community/tutorials/python-add-to-list)
 * [How To Convert a NumPy Array to List in Python](https://www.digitalocean.com/community/tutorials/python-convert-numpy-array-to-list)
 * [How to mask an array using another array in python ?](https://www.moonbooks.org/Articles/How-to-mask-an-array-using-another-array-in-python-/)
-*[Python: Combinations of a List (Get All Combinations of a List)](https://datagy.io/python-combinations-of-a-list/)
+* [Python: Combinations of a List (Get All Combinations of a List)](https://datagy.io/python-combinations-of-a-list/)
+* [Python List index()](https://www.programiz.com/python-programming/methods/list/index)
+
