@@ -1,3 +1,11 @@
+
+
+* [ROW WISE MEAN, SUM, MINIMUM AND MAXIMUM IN PYSPARK](https://www.datasciencemadesimple.com/row-wise-mean-sum-minimum-and-maximum-in-pyspark/)
+* [api reference](https://spark.apache.org/docs/3.2.1/api/python/reference/api/pyspark.sql.functions.stddev.html)
+* [Spark Calculate Standard deviation row wise](https://stackoverflow.com/questions/50077107/spark-calculate-standard-deviation-row-wise)
+* [PySpark Statistics Standard Deviation – Calculating the Standard Deviation in PySpark a Comprehensive Guide for Everyone](https://www.machinelearningplus.com/pyspark/pyspark-statistics-standard-deviation/?expand_article=1)
+* [Spark Calculate Standard deviation row wise](https://stackoverflow.com/questions/50077107/spark-calculate-standard-deviation-row-wise)
+* [Standard Deviation in PySpark](https://linuxhint.com/standard-deviation-pyspark/)
 * [Spark – Working with collect_list() and collect_set() functions](https://sparkbyexamples.com/spark/spark-collect-list-and-collect-set-functions/)
 * [PySpark Find Maximum Row per Group in DataFrame](https://sparkbyexamples.com/pyspark/pyspark-find-maximum-row-per-group-in-dataframe/?expand_article=1)
 * [Using "Select Expr" and "Stack" to Unpivot PySpark DataFrame doesn't produce expected results](https://stackoverflow.com/questions/74779993/using-select-expr-and-stack-to-unpivot-pyspark-dataframe-doesnt-produce-exp)
