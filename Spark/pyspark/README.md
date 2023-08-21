@@ -1,3 +1,6 @@
+* [Example of Log Transformation | Ridge Pipeline](https://www.kaggle.com/code/heitornunes/example-of-log-transformation-ridge-pipeline)
+* [Run SQL Queries with PySpark – A Step-by-Step Guide to run SQL Queries in PySpark with Example Code](https://www.machinelearningplus.com/pyspark/run-sql-queries-with-pyspark/)
+* [PySpark SQL with Examples](https://sparkbyexamples.com/pyspark/pyspark-sql-with-examples/?expand_article=1)
 * [PySpark max() – Different Methods Explained](https://sparkbyexamples.com/pyspark/pyspark-max-different-methods-explained/)
 * [GroupBy column and filter rows with maximum value in Pyspark](https://stackoverflow.com/questions/48829993/groupby-column-and-filter-rows-with-maximum-value-in-pyspark)
 * [How do you read an Excel spreadsheet with Databricks](https://community.databricks.com/t5/data-engineering/how-do-you-read-an-excel-spreadsheet-with-databricks/m-p/25994)
