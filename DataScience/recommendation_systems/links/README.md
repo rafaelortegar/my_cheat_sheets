@@ -71,6 +71,13 @@
 * [Recommender system on the Movielens dataset using an Autoencoder and Tensorflow in Python](https://medium.com/@connectwithghosh/recommender-system-on-the-movielens-using-an-autoencoder-using-tensorflow-in-python-f13d3e8d600d)
 * [Predicting Fraud with Autoencoders and Keras](https://blogs.rstudio.com/ai/posts/2018-01-24-keras-fraud-autoencoder/)
 * [Attentive Contextual Denoising Autoencoder for Recommendation](https://www.cse.scu.edu/~yfang/ACDA.pdf)
+* [Simple Matrix Factorization example on the Movielens dataset using Pyspark](https://medium.com/@connectwithghosh/simple-matrix-factorization-example-on-the-movielens-dataset-using-pyspark-9b7e3f567536)
+* [MovieLensALS.py](https://github.com/aviyashchin/CollabFiltering-Netflix-PySpark/blob/master/MovieLensALS.py)
+* [How Netflix Recommendation System Work (Collaborative filtering)](https://github.com/Sajad1009/Netflix-Recommendation-System-)
+* [Recommender System: Collaborative Filtering with Matrix Factorization](https://towardsdatascience.com/recommendation-system-with-matrix-factorization-ebc4736869e4)
+* [Serverless Recommendation System using PySpark and GCP](https://towardsdatascience.com/serverless-recommendation-system-using-pyspark-and-gcp-4fb163131881)
+* [Tutorial: Collaborative filtering with PySpark](https://www.kaggle.com/code/vchulski/tutorial-collaborative-filtering-with-pyspark)
+* [Recommender system using Pyspark (ALS algorithm)](http://www.alangewerc.com/blog/Recommender-System/)
 
 
 
