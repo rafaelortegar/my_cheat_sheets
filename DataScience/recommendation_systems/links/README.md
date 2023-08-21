@@ -66,6 +66,12 @@
 * [Como la estrategia de personalización de NETFLIX venció al gigante BLOCKBUSTER](https://www.linkedin.com/pulse/como-la-estrategia-de-personalizaci%C3%B3n-netflix-venci%C3%B3-al-seminario/?originalSubdomain=es)
 * [Trends in Recommendation & Personalization at Netflix](https://www.youtube.com/watch?v=IByC2keY3vo)
 * [James lee gh](https://github.com/khanhnamle1994)
+* [Inside Spotify’s Recommender System: A Complete Guide to Spotify Recommendation Algorithms](https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022)
+* [Music Personalization at Spotify](https://dl.acm.org/doi/abs/10.1145/2959100.2959120)
+* [Music Recommendation System Spotify - Collaborative Filtering](https://hpac.cs.umu.se/teaching/sem-mus-17/Reports/Madathil.pdf)
+* [Building a Song Recommendation System with Spotify](https://towardsdatascience.com/part-iii-building-a-song-recommendation-system-with-spotify-cf76b52705e7)
+* [Music Recommendation System using Spotify Dataset](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset)
+* [Spotify-Recommendation-System](https://github.com/abdelrhmanelruby/Spotify-Recommendation-System)
 
 
 # Data
