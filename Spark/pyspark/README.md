@@ -1,3 +1,4 @@
+* [Feature Transformer VectorAssembler in PySpark ML Feature — Part 3](https://medium.com/@nutanbhogendrasharma/feature-transformer-vectorassembler-in-pyspark-ml-feature-part-3-b3c2c3c93ee9)
 * [GroupBy and concat array columns pyspark](https://stackoverflow.com/questions/48406304/groupby-and-concat-array-columns-pyspark)
 * [ML - Features](https://spark.apache.org/docs/1.5.0/ml-features.html)
 * [Create feature vector programmatically in Spark ML / pyspark](https://stackoverflow.com/questions/32606294/create-feature-vector-programmatically-in-spark-ml-pyspark)
