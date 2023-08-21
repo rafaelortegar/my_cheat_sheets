@@ -1,5 +1,10 @@
 # Parte del repositorio que tratará sobre graficar en python
 * []()
+* []()
+* [Bar Charts in Python](https://plotly.com/python/bar-charts/)
+* [Histograms in Dash](https://plotly.com/python/histograms/)
+* [Distplots in Python](https://plotly.com/python/distplot/)
+* [Range Slider and Selector in Python](https://plotly.com/python/range-slider/)
 * [Histograms in Python](https://plotly.com/python/histograms/)
 * [plotly.graph_objects.Histogram](https://plotly.github.io/plotly.py-docs/generated/plotly.graph_objects.Histogram.html)
 * [plotly.graph_objects package](https://plotly.github.io/plotly.py-docs/generated/plotly.graph_objects.html#module-plotly.graph_objects)
