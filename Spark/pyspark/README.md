@@ -1,3 +1,7 @@
+* [PySpark Find Maximum Row per Group in DataFrame](https://sparkbyexamples.com/pyspark/pyspark-find-maximum-row-per-group-in-dataframe/?expand_article=1)
+* [Using "Select Expr" and "Stack" to Unpivot PySpark DataFrame doesn't produce expected results](https://stackoverflow.com/questions/74779993/using-select-expr-and-stack-to-unpivot-pyspark-dataframe-doesnt-produce-exp)
+* [PySpark Pivot and Unpivot DataFrame](https://sparkbyexamples.com/pyspark/pyspark-pivot-and-unpivot-dataframe/?expand_article=1)
+* [pyspark.sql.DataFrame.unpivot](https://spark.apache.org/docs/latest/api/python//reference/pyspark.sql/api/pyspark.sql.DataFrame.unpivot.html)
 * [Working with PySpark ArrayType Columns](https://mungingdata.com/pyspark/array-arraytype-list/)
 * [Apply function to all values in array column in PySpark](https://www.geeksforgeeks.org/apply-function-to-all-values-in-array-column-in-pyspark/)
 * [PySpark ArrayType Column With Examples](https://sparkbyexamples.com/pyspark/pyspark-arraytype-column-with-examples/)
