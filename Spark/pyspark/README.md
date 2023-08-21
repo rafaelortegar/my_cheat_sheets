@@ -1,3 +1,6 @@
+* [Working with PySpark ArrayType Columns](https://mungingdata.com/pyspark/array-arraytype-list/)
+* [Apply function to all values in array column in PySpark](https://www.geeksforgeeks.org/apply-function-to-all-values-in-array-column-in-pyspark/)
+* [PySpark ArrayType Column With Examples](https://sparkbyexamples.com/pyspark/pyspark-arraytype-column-with-examples/)
 * [Example of Log Transformation | Ridge Pipeline](https://www.kaggle.com/code/heitornunes/example-of-log-transformation-ridge-pipeline)
 * [Run SQL Queries with PySpark – A Step-by-Step Guide to run SQL Queries in PySpark with Example Code](https://www.machinelearningplus.com/pyspark/run-sql-queries-with-pyspark/)
 * [PySpark SQL with Examples](https://sparkbyexamples.com/pyspark/pyspark-sql-with-examples/?expand_article=1)
