@@ -2,4 +2,6 @@
   * [Reducir la incertidumbre: Nielsen y la investigación de mercados](http://www.revistaindice.com/numero38/p22.pdf)
   * [Unidad equivalente a álbum](https://www.wikiwand.com/es/Unidad_equivalente_a_%C3%A1lbum)
   * [Examples of EQ Unit in a sentence](https://www.lawinsider.com/dictionary/eq-unit#:~:text=EQ%20Unit%20means%20equivalent%20units,in%20different%20consumer%20selling%20units.)
-  * 
+  * [Distribution](https://nielseniq.com/global/en/client-learning/retail-measurement-services/distribution/)
+  * [Measuring & improving your business with distribution data](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/measuring-and-improving-your-business-with-distribution-data.pdf)
+  * [Insights](https://www.nielsen.com/insights/2021/insights/?gclid=Cj0KCQjw5f2lBhCkARIsAHeTvlhhx65rJqrCIPlg0S6_e1D6HaON7HkXw0-tZouAAmIleZksE5V0NUkaAvjJEALw_wcB&gclsrc=aw.ds)
