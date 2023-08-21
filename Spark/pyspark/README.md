@@ -1,3 +1,4 @@
+* [Spark – Working with collect_list() and collect_set() functions](https://sparkbyexamples.com/spark/spark-collect-list-and-collect-set-functions/)
 * [PySpark Find Maximum Row per Group in DataFrame](https://sparkbyexamples.com/pyspark/pyspark-find-maximum-row-per-group-in-dataframe/?expand_article=1)
 * [Using "Select Expr" and "Stack" to Unpivot PySpark DataFrame doesn't produce expected results](https://stackoverflow.com/questions/74779993/using-select-expr-and-stack-to-unpivot-pyspark-dataframe-doesnt-produce-exp)
 * [PySpark Pivot and Unpivot DataFrame](https://sparkbyexamples.com/pyspark/pyspark-pivot-and-unpivot-dataframe/?expand_article=1)
