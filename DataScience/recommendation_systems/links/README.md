@@ -5,6 +5,11 @@
 * [Brief on Recommender Systems](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd)
 * [Recommendation systems](https://www.engati.com/glossary/recommendation-systems)
 * [Exploring Recommendation Systems: Review of Matrix Factorization & Deep Learning Models](https://medium.com/towards-data-science/exploring-recommendation-systems-review-of-matrix-factorization-deep-learning-models-74d51a3b4f20)
+* [Recommendation systems](https://www.engati.com/glossary/recommendation-systems)
+* [Types of Recommendation Systems & Their Use Cases](https://medium.com/mlearning-ai/what-are-the-types-of-recommendation-systems-3487cbafa7c9)
+* [Types of Recommendation Systems & Their Use Cases](https://medium.com/mlearning-ai/what-are-the-types-of-recommendation-systems-3487cbafa7c9)
+* [What are recommendation systems?](https://www.engati.com/glossary/recommendation-systems)
+* 
 
 # Process
 
@@ -45,6 +50,23 @@
 * [Recommendation System Series Part 4: The 7 Variants of Matrix Factorization For Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
 * [How Did We Build Book Recommender Systems in An Hour Part 2 — k Nearest Neighbors and Matrix Factorization](https://towardsdatascience.com/how-did-we-build-book-recommender-systems-in-an-hour-part-2-k-nearest-neighbors-and-matrix-c04b3c2ef55c)
 * [Calculating cosine similarity in Pyspark Dataframe](https://stackoverflow.com/questions/74343151/calculating-cosine-similarity-in-pyspark-dataframe)
+* [How Did We Build Book Recommender Systems in an Hour Part 1 — The Fundamentals](https://towardsdatascience.com/how-did-we-build-book-recommender-systems-in-an-hour-the-fundamentals-dfee054f978e)
+* [Evaluating A Real-Life Recommender System, Error-Based and Ranking-Based](https://towardsdatascience.com/evaluating-a-real-life-recommender-system-error-based-and-ranking-based-84708e3285b)
+* [Building and Testing Recommender Systems With Surprise, Step-By-Step](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
+* [Building Recommender Systems with Machine Learning and AI](https://www.oreilly.com/videos/building-recommender-systems/9781789803273/)
+* [Using Customer and Product Features in Recommender Systems](https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf)
+* [LDA-LFM-Recommender-System](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System)
+* [Deep Learning for Recommender Systems: Next basket prediction and sequential product recommendation](https://medium.com/recombee-blog/deep-learning-for-recommender-systems-next-basket-prediction-and-sequential-product-recommendation-796228b34dee)
+* [Machine Learning for Recommender systems — Part 1 (algorithms, evaluation and cold start)](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
+* [Recommender systems explained](https://medium.com/recombee-blog/recommender-systems-explained-d98e8221f468)
+* [Hybrid Recommendation System using LightFM](https://medium.com/@dikosaktiprabowo/hybrid-recommendation-system-using-lightfm-e10dd6b42923)
+* [Simple Matrix Factorization example on the Movielens dataset using Pyspark](https://medium.com/@connectwithghosh/simple-matrix-factorization-example-on-the-movielens-dataset-using-pyspark-9b7e3f567536)
+* [BUILDING RECOMMENDED SYSTEM USING PYSPARK WITH ALS ALGORITHM](https://karan18csu103.medium.com/building-recommended-system-using-pyspark-with-als-algorithm-34fd265fa90c)
+* [Recommender System — Bayesian personalized ranking from implicit feedback](https://towardsdatascience.com/recommender-system-bayesian-personalized-ranking-from-implicit-feedback-78684bfcddf6)
+* [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)
+* [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://towardsdatascience.com/joint-deep-modeling-of-users-and-items-using-reviews-for-recommendation-50e75d5e10aa)
+* [Recommender System — singular value decomposition (SVD) & truncated SVD](https://towardsdatascience.com/recommender-system-singular-value-decomposition-svd-truncated-svd-97096338f361)
+* 
 
 
 
