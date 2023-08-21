@@ -1,3 +1,7 @@
+* [GroupBy and concat array columns pyspark](https://stackoverflow.com/questions/48406304/groupby-and-concat-array-columns-pyspark)
+* [ML - Features](https://spark.apache.org/docs/1.5.0/ml-features.html)
+* [Create feature vector programmatically in Spark ML / pyspark](https://stackoverflow.com/questions/32606294/create-feature-vector-programmatically-in-spark-ml-pyspark)
+* [DenseVector](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.linalg.DenseVector.html)
 * [Correlation](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.stat.Correlation.html)
 * [PySpark MapType (Dict) Usage with Examples](https://sparkbyexamples.com/pyspark/pyspark-maptype-dict-examples/)
 * [Adding two columns to existing PySpark DataFrame using withColumn](https://www.geeksforgeeks.org/adding-two-columns-to-existing-pyspark-dataframe-using-withcolumn/)
