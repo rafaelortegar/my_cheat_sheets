@@ -2,6 +2,7 @@ pandas:
 
 [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)
 [Leer despues](https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/)
+[pandas.DataFrame.to_dict](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_dict.html)
 [regex with pandas](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
 [documentacion oficial](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
