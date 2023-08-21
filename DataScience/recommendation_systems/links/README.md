@@ -66,7 +66,11 @@
 * [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)
 * [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://towardsdatascience.com/joint-deep-modeling-of-users-and-items-using-reviews-for-recommendation-50e75d5e10aa)
 * [Recommender System — singular value decomposition (SVD) & truncated SVD](https://towardsdatascience.com/recommender-system-singular-value-decomposition-svd-truncated-svd-97096338f361)
-* 
+* [Introduction to Apache Spark and Implicit Collaborative Filtering in PySpark](https://medium.com/analytics-vidhya/introduction-to-apache-spark-and-implicit-collaborative-filtering-in-pyspark-7c8c83eba008)
+* [Collaborative Filtering](https://spark.apache.org/docs/latest/ml-collaborative-filtering.html)
+* [Recommender system on the Movielens dataset using an Autoencoder and Tensorflow in Python](https://medium.com/@connectwithghosh/recommender-system-on-the-movielens-using-an-autoencoder-using-tensorflow-in-python-f13d3e8d600d)
+* [Predicting Fraud with Autoencoders and Keras](https://blogs.rstudio.com/ai/posts/2018-01-24-keras-fraud-autoencoder/)
+* [Attentive Contextual Denoising Autoencoder for Recommendation](https://www.cse.scu.edu/~yfang/ACDA.pdf)
 
 
 
@@ -105,7 +109,7 @@
 * [Paper Session 3: Deep Learning for Recommender Systems](https://recsys.acm.org/recsys19/session-3/)
 * [Learning Preference Models in Recommender Systems](https://www.academia.edu/2122263/Learning_Preference_Models_in_Recommender_Systems)
 * [Content-based Recommender Systems: State of the Art and Trends](https://link.springer.com/chapter/10.1007/978-0-387-85820-3_3)
-* 
+* [What’s in a neural network recommender](https://medium.com/swlh/whats-in-a-neural-network-recommender-a6fb9fb8cb37)
 
 
 # Data
