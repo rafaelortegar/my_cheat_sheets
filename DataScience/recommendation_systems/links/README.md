@@ -9,7 +9,8 @@
 * [Types of Recommendation Systems & Their Use Cases](https://medium.com/mlearning-ai/what-are-the-types-of-recommendation-systems-3487cbafa7c9)
 * [Types of Recommendation Systems & Their Use Cases](https://medium.com/mlearning-ai/what-are-the-types-of-recommendation-systems-3487cbafa7c9)
 * [What are recommendation systems?](https://www.engati.com/glossary/recommendation-systems)
-* 
+* [Choosing the Right Recommendation Algorithm](https://www.advancinganalytics.co.uk/blog/2020/5/13/recommendation-systems)
+* [Recommendation Systems: A Review](https://towardsdatascience.com/recommendation-systems-a-review-d4592b6caf4b)
 
 # Process
 
@@ -117,7 +118,18 @@
 * [Learning Preference Models in Recommender Systems](https://www.academia.edu/2122263/Learning_Preference_Models_in_Recommender_Systems)
 * [Content-based Recommender Systems: State of the Art and Trends](https://link.springer.com/chapter/10.1007/978-0-387-85820-3_3)
 * [What’s in a neural network recommender](https://medium.com/swlh/whats-in-a-neural-network-recommender-a6fb9fb8cb37)
+* [Recommender Systems](https://www.vikas.sindhwani.org/recommender.pdf)
 
+# Solving problems on recommender systems
+* [The long tail of recommender systems and how to leverage it](https://dl.acm.org/doi/abs/10.1145/1454008.1454012)
+* [Application of Dimensionality Reduction in Recommender System - A Case Study](https://conservancy.umn.edu/bitstream/handle/11299/215429/00-043.pdf?sequence=1&isAllowed=y)
+* [Skewness Ranking Optimization for Personalized Recommendation](http://proceedings.mlr.press/v124/wang20c/wang20c.pdf)
+* [Impact of Data Characteristics on Recommender Systems Performance](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3e25ad2040441b21b7302fa0f18f9c5a215ce560)
 
 # Data
 * [Netflix Prize data](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
+
+# using pyspark
+* [Collaborative Filtering](https://spark.apache.org/docs/latest/ml-collaborative-filtering.html)
+* [MatrixFactorizationModel](https://spark.apache.org/docs/3.1.3/api/python/reference/api/pyspark.mllib.recommendation.MatrixFactorizationModel.html)
+* [ALS](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.mllib.recommendation.ALS.html)
