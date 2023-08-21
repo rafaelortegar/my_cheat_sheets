@@ -80,6 +80,10 @@
 * [Music Recommendation System using Spotify Dataset](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset)
 * [Spotify-Recommendation-System](https://github.com/abdelrhmanelruby/Spotify-Recommendation-System)
 * [Using Surprise in Python with a recommender system](https://medium.com/@jonahflateman/using-surprise-in-python-with-a-recommender-system-2d6030140926)
+* [Paper Session 3: Deep Learning for Recommender Systems](https://recsys.acm.org/recsys19/session-3/)
+* [Learning Preference Models in Recommender Systems](https://www.academia.edu/2122263/Learning_Preference_Models_in_Recommender_Systems)
+* [Content-based Recommender Systems: State of the Art and Trends](https://link.springer.com/chapter/10.1007/978-0-387-85820-3_3)
+* 
 
 
 # Data
