@@ -27,7 +27,7 @@ dentro del environment correspondiente.
 
 * [Rstudio](https://rstudio.com/products/rstudio/)
 * [cran r en ubuntu](https://cran.r-project.org/)
-
+* [How do I count the NaN values in a column in pandas DataFrame?](https://stackoverflow.com/questions/26266362/how-do-i-count-the-nan-values-in-a-column-in-pandas-dataframe)
 * [Converting a PySpark DataFrame Column to a Python List](https://www.geeksforgeeks.org/converting-a-pyspark-dataframe-column-to-a-python-list/)
 * [How to Convert Pandas to PySpark DataFrame](https://sparkbyexamples.com/pyspark/convert-pandas-to-pyspark-dataframe/)
 * [How to convert a list of lists into a Pandas DataFrame in Python](https://www.kite.com/python/answers/how-to-convert-a-list-of-lists-into-a-pandas-dataframe-in-python)
