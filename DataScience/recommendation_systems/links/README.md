@@ -72,6 +72,7 @@
 * [Building a Song Recommendation System with Spotify](https://towardsdatascience.com/part-iii-building-a-song-recommendation-system-with-spotify-cf76b52705e7)
 * [Music Recommendation System using Spotify Dataset](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset)
 * [Spotify-Recommendation-System](https://github.com/abdelrhmanelruby/Spotify-Recommendation-System)
+* [Using Surprise in Python with a recommender system](https://medium.com/@jonahflateman/using-surprise-in-python-with-a-recommender-system-2d6030140926)
 
 
 # Data
