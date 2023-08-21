@@ -1,5 +1,5 @@
 
-
+* [How to Pivot and Unpivot a Spark Data Frame](https://sparkbyexamples.com/spark/how-to-pivot-table-and-unpivot-a-spark-dataframe/?expand_article=1)
 * [ROW WISE MEAN, SUM, MINIMUM AND MAXIMUM IN PYSPARK](https://www.datasciencemadesimple.com/row-wise-mean-sum-minimum-and-maximum-in-pyspark/)
 * [api reference](https://spark.apache.org/docs/3.2.1/api/python/reference/api/pyspark.sql.functions.stddev.html)
 * [Spark Calculate Standard deviation row wise](https://stackoverflow.com/questions/50077107/spark-calculate-standard-deviation-row-wise)
