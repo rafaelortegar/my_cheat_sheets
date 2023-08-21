@@ -1,3 +1,5 @@
+* [Spark SQL - Extract Day, Month, Year and other Part from Date or Timestamp](https://kontext.tech/article/1048/spark-sql-extract-day-month-year-and-other-part-from-date-or-timestamp)
+* [Spark SQL Date and Timestamp Functions](https://sparkbyexamples.com/spark/spark-sql-date-and-time-functions/?expand_article=1)
 * [How to Get the Year from a Datetime Column in MySQL](https://learnsql.com/cookbook/how-to-get-the-year-from-a-datetime-column-in-mysql/#:~:text=Use%20the%20YEAR()%20function%20to%20retrieve%20the%20year%20value,one%20of%20those%20data%20types.)
 * [Spark SQL - Extract Day, Month, Year and other Part from Date or Timestamp](https://kontext.tech/article/1048/spark-sql-extract-day-month-year-and-other-part-from-date-or-timestamp)
 * [Spark SQL Date and Timestamp Functions](https://sparkbyexamples.com/spark/spark-sql-date-and-time-functions/?expand_article=1)
