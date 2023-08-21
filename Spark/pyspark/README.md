@@ -1,3 +1,5 @@
+* [PySpark max() – Different Methods Explained](https://sparkbyexamples.com/pyspark/pyspark-max-different-methods-explained/)
+* [GroupBy column and filter rows with maximum value in Pyspark](https://stackoverflow.com/questions/48829993/groupby-column-and-filter-rows-with-maximum-value-in-pyspark)
 * [How do you read an Excel spreadsheet with Databricks](https://community.databricks.com/t5/data-engineering/how-do-you-read-an-excel-spreadsheet-with-databricks/m-p/25994)
 * [Managing Excel Files with Apache Spark for Azure Databricks Implementation](https://www.mssqltips.com/sqlservertip/7553/manage-excel-files-apache-spark-azure-databricks/)
 * [Reading excel file in pyspark (Databricks notebook)](https://mayur-saparia7.medium.com/reading-excel-file-in-pyspark-databricks-notebook-c75a63181548)
