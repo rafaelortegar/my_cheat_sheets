@@ -1,3 +1,6 @@
+# Packages
+* [LightFM’s documentation](https://making.lyst.com/lightfm/docs/home.html)
+
 # Introduction
 * [Brief on Recommender Systems](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd)
 * [Recommendation systems](https://www.engati.com/glossary/recommendation-systems)
@@ -38,6 +41,10 @@
 * [Recommendation System Series Part 4: The 7 Variants of Matrix Factorization For Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
 * [Recommendation System Series Part 5: The 5 Variants of Multi-Layer Perceptron for Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-5-neural-matrix-factorization-for-collaborative-filtering-a0aebfe15883)
 * [Recommendation System Series Part 6: The 6 Variants of Autoencoders for Collaborative Filtering](https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7)
+* [Recommendation System in Python: LightFM](https://towardsdatascience.com/recommendation-system-in-python-lightfm-61c85010ce17)
+* [Recommendation System Series Part 4: The 7 Variants of Matrix Factorization For Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
+* [How Did We Build Book Recommender Systems in An Hour Part 2 — k Nearest Neighbors and Matrix Factorization](https://towardsdatascience.com/how-did-we-build-book-recommender-systems-in-an-hour-part-2-k-nearest-neighbors-and-matrix-c04b3c2ef55c)
+* [Calculating cosine similarity in Pyspark Dataframe](https://stackoverflow.com/questions/74343151/calculating-cosine-similarity-in-pyspark-dataframe)
 
 
 
