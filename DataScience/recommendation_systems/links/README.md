@@ -1,6 +1,7 @@
 # Introduction
 * [Brief on Recommender Systems](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd)
 * [Recommendation systems](https://www.engati.com/glossary/recommendation-systems)
+* [Exploring Recommendation Systems: Review of Matrix Factorization & Deep Learning Models](https://medium.com/towards-data-science/exploring-recommendation-systems-review-of-matrix-factorization-deep-learning-models-74d51a3b4f20)
 
 # Process
 
@@ -29,6 +30,15 @@
 * [Deep Learning Based Recommendation Algorithm in Online Medical Platform](https://link.springer.com/chapter/10.1007/978-3-030-00563-4_4)
 * [16. ALS: Stock Portfolio Recommendations](https://runawayhorse001.github.io/LearningApacheSpark/als.html)
 * [ALTERNATING LEAST SQUARES (ALS) SPARK ML](https://www.elenacuoco.com/2016/12/22/alternating-least-squares-als-spark-ml/)
+* [Building a Machine Learning Model for Product Recommendations Using Customer Purchase Data](https://salomelomsadze.medium.com/building-a-machine-learning-model-for-product-recommendations-using-customer-purchase-data-95bd86da7350)
+* [Recommendation System: User-Based Collaborative Filtering](https://medium.com/grabngoinfo/recommendation-system-user-based-collaborative-filtering-a2e76e3e15c4)
+* [Clustering and Collaborative Filtering — Visualizing clusters using t-SNE](https://medium.com/@gabrieltseng/clustering-and-collaborative-filtering-visualizing-clusters-using-t-sne-f9718e7491e6)
+* [Recommendation System Series Part 2: The 10 Categories of Deep Recommendation Systems That Academic Researchers Should Pay Attention To](https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58)
+* [Recommendation System Series Part 3: The 6 Research Directions of Deep Recommendation Systems That Will Change The Game](https://towardsdatascience.com/recommendation-system-series-part-3-the-6-research-directions-of-deep-recommendation-systems-that-3a328d264fb7)
+* [Recommendation System Series Part 4: The 7 Variants of Matrix Factorization For Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
+* [Recommendation System Series Part 5: The 5 Variants of Multi-Layer Perceptron for Collaborative Filtering](https://towardsdatascience.com/recsys-series-part-5-neural-matrix-factorization-for-collaborative-filtering-a0aebfe15883)
+* [Recommendation System Series Part 6: The 6 Variants of Autoencoders for Collaborative Filtering](https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7)
+
 
 
 
@@ -55,7 +65,7 @@
 * [Netflix Recommendations](https://electronics.howstuffworks.com/netflix2.htm)
 * [Como la estrategia de personalización de NETFLIX venció al gigante BLOCKBUSTER](https://www.linkedin.com/pulse/como-la-estrategia-de-personalizaci%C3%B3n-netflix-venci%C3%B3-al-seminario/?originalSubdomain=es)
 * [Trends in Recommendation & Personalization at Netflix](https://www.youtube.com/watch?v=IByC2keY3vo)
-
+* [James lee gh](https://github.com/khanhnamle1994)
 
 
 # Data
