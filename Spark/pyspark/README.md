@@ -1,3 +1,5 @@
+
+* [aggregate while find the first value of the group](https://stackoverflow.com/questions/62181157/pyspark-aggregate-while-find-the-first-value-of-the-group)
 * [Collaborative Filtering](https://spark.apache.org/docs/latest/ml-collaborative-filtering.html)
 * [MatrixFactorizationModel](https://spark.apache.org/docs/3.1.3/api/python/reference/api/pyspark.mllib.recommendation.MatrixFactorizationModel.html)
 * [ALS](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.mllib.recommendation.ALS.html)
