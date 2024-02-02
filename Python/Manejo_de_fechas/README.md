@@ -8,3 +8,5 @@
 * [datetime — Basic date and time types](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)
 * [How to Convert Strings to Datetime in Pandas DataFrame](https://datatofish.com/strings-to-datetime-pandas/)
 * [Python calculate 6 months ago from today](https://www.golinuxcloud.com/python-calculate-6-months-ago-from-today/)
+* [Get (year,month) for the last X months](https://stackoverflow.com/questions/6576187/get-year-month-for-the-last-x-months)
+* 
