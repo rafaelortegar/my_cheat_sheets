@@ -23,6 +23,7 @@
 * [How to convert RDD of dense vector into DataFrame in pyspark?](https://stackoverflow.com/questions/41328799/how-to-convert-rdd-of-dense-vector-into-dataframe-in-pyspark/41330850)
 * [Converting Pandas dataframe into Spark dataframe error](https://stackoverflow.com/questions/37513355/converting-pandas-dataframe-into-spark-dataframe-error)
 * [pyarrow.lib.ArrowInvalid: ('Could not convert X with type Y: did not recognize Python value type when inferring an Arrow data type')](https://stackoverflow.com/questions/59636745/pyarrow-lib-arrowinvalid-could-not-convert-x-with-type-y-did-not-recognize-p)
+* [Apache Spark: Transformations and Lazy Evaluation](https://blog.damavis.com/en/apache-spark-transformations-and-lazy-evaluation/)
 
 
 
