@@ -1,3 +1,6 @@
+* [Collaborative Filtering](https://spark.apache.org/docs/latest/ml-collaborative-filtering.html)
+* [MatrixFactorizationModel](https://spark.apache.org/docs/3.1.3/api/python/reference/api/pyspark.mllib.recommendation.MatrixFactorizationModel.html)
+* [ALS](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.mllib.recommendation.ALS.html)
 * [One-hot encoding categorical columns as a set of binary columns (dummy encoding)](https://www.skytowner.com/explore/one_hot_encoding_in_pyspark)
 * [Feature Transformer VectorAssembler in PySpark ML Feature — Part 3](https://medium.com/@nutanbhogendrasharma/feature-transformer-vectorassembler-in-pyspark-ml-feature-part-3-b3c2c3c93ee9)
 * [GroupBy and concat array columns pyspark](https://stackoverflow.com/questions/48406304/groupby-and-concat-array-columns-pyspark)
