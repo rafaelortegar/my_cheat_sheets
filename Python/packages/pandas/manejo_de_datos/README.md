@@ -5,3 +5,4 @@
 * [8 Ways to Filter Pandas DataFrames](https://builtin.com/data-science/pandas-filter)
 * [TOP 10 WAYS TO FILTER PANDAS DATAFRAME](https://www.youngwonks.com/blog/top-10-ways-to-filter-pandas-dataframe)
 * [pandas.DataFrame.filter](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.filter.html)
+* [How to Slice Pandas DataFrame into Chunks](https://www.statology.org/pandas-chunk-dataframe/)
